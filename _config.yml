@@ -1,0 +1,8 @@
+title: CS Teaching Resources
+description: A website that contains resources I've found and created
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
