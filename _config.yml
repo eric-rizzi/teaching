@@ -3,8 +3,6 @@ description: A website that contains resources I've found and created
 collections:
   outside_resources_posts:
     output: true
-exclude:
-  - google2fed25e1fca644af.html
 
 # Build settings
 theme: minima
