@@ -1,7 +1,7 @@
 title: CS Teaching Resources
 description: A website that contains resources I've found and created
 collections:
-  outside_resources:
+  outside_resources_posts:
     output: true
 
 # Build settings
