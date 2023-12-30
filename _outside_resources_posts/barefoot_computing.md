@@ -8,11 +8,9 @@ categories:
     - Scratch
 ---
 
-## Barefoot Computing
-
 Scottish curriclum primarly directed toward lower school. Has some interesting
 stuff that is very well organized.
 
-### Useful Links
+## Useful Links
 
 - https://www.barefootcomputing.org/

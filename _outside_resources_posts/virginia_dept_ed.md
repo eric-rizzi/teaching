@@ -8,9 +8,7 @@ categories:
     - Untested
 ---
 
-## Virginia Department of Education
-
-### Useful Links
+## Useful Links
 
 - Standards and links to resources in VA
     https://www.doe.virginia.gov/teaching-learning-assessment/instruction/computer-science
