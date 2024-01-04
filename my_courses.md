@@ -25,7 +25,7 @@ quickly apply it.
 
 #### Abstraction in All Forms
 
-![Computers at varying levels of abstraction](/assets/three_computers.jpg)
+![Computers at varying levels of abstraction](/assets/abstract_computers.jpg)
 
 The course has a four class unit on abstraction where students are asked to
 analyze abstraction from a variety of different angles. This includes drawing
