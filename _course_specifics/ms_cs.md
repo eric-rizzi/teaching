@@ -25,7 +25,7 @@ quickly apply it.
 
 #### Abstraction in All Forms
 
-![Computers at varying levels of abstraction](/assets/abstract_computers.jpg)
+![Computers at varying levels of abstraction]({{ site.baseurl }}/assets/abstract_computers.jpg)
 
 The course has a four class unit on abstraction where students are asked to
 analyze abstraction from a variety of different angles. This includes drawing
@@ -36,7 +36,7 @@ communicating with others as well as how it is used within computer science.
 
 #### Harry Potter Themed Terminal Scavenger Hunt
 
-![Harry Potter Learning Terminal](/assets/hp_terminal.jpg)
+![Harry Potter Learning Terminal]({{ site.baseurl }}/assets/hp_terminal.jpg)
 
 This unit teaches students the bare essentials of terminal. In the process, they
 are required to remember information they previously learned in the class and
