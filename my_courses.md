@@ -12,7 +12,10 @@ abstractions that give computers their power.
 
 ## Course Highlights
 
-### Scratch Game Progression
+The middle school course emphasizes creativity, drawing, movement (when
+possible), and sharing of students work in the class. Units include:
+
+#### Scratch Game Progression
 
 Students begin the class with a series of five games of increasing complexity.
 Each game is easily understandable, fun to play, can be completed by all levels
@@ -20,7 +23,9 @@ of students in a class period, and is easily extendable. The progression allows
 for a rhythm to quickly build where students learn a new concept and then
 quickly apply it.
 
-### Abstraction in All Forms
+#### Abstraction in All Forms
+
+![Computers at varying levels of abstraction](/assets/three_computers.jpg)
 
 The course has a four class unit on abstraction where students are asked to
 analyze abstraction from a variety of different angles. This includes drawing
@@ -29,7 +34,9 @@ works, and solving a series of logic puzzles. In the end, students come away
 with an appreciation for why abstraction is important for thinking and
 communicating with others as well as how it is used within computer science.
 
-### Harry Potter Themed Terminal Scavenger Hunt
+#### Harry Potter Themed Terminal Scavenger Hunt
+
+![Harry Potter Learning Terminal](/assets/hp_terminal.jpg)
 
 This unit teaches students the bare essentials of terminal. In the process, they
 are required to remember information they previously learned in the class and
