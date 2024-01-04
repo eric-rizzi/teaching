@@ -10,7 +10,7 @@ and exposes them to big ideas in computer science. It is intended to demystify
 the computer and give students the confidence to look "inside" the various
 abstractions that give computers their power.
 
-## Course Highlights
+### Course Highlights
 
 The middle school course emphasizes creativity, drawing, movement (when
 possible), and sharing of students work in the class. Units include:
@@ -69,6 +69,26 @@ approaching new technolgy.
 The purpose of the course is to simultaneously teach students the equivalent of
 an "advanced python" course and introduce them to various state of the art
 techniques in AI/ML.
+
+### Course Highlights
+
+The machine learning class is designed to mold around the AP curriculum. The
+reason for this is that many students in the class will take the AP class the
+year after taking this class and many students in the class have already taken
+the AP class. Therefore, the course focuses on a more functional approach. In
+doing so, the class relies on games, exploration, and philosophical discussion
+to drive learning. Finally, as the course progresses, students are encouraged
+to take more and more use of ChatBots to help them produce code more quickly.
+The theory is that ChatBots provide a new, higher abstraction level that
+students should learn to interact with.
+
+#### Manufactoria and Finite State Machines
+
+#### Guess Who Decision Trees
+
+#### Bayesian Black Jack
+
+#### Teaching Humans and Machines
 
 #### Years Taught
 
