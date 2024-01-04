@@ -54,12 +54,14 @@ approaching new technolgy.
 
 2023 - 2024
 
-#### Links
+#### Main Links
 
 - [Main Repository](https://github.com/holycrap872/MSIntroToCS)
 - [Course Documents](https://github.com/holycrap872/MSIntroToCS/tree/mainline/CourseMaterials/course_documents)
 - [Course Curriculum](https://github.com/holycrap872/MSIntroToCS/tree/mainline/CourseMaterials)
 - [Slides](https://docs.google.com/presentation/d/1_haSfJvCY0OA6x6Ym1PqG1iJuH38eZB0TawBFXFAJXg/edit?usp=sharing)
-- Other Resources
-    - [HP Scavenger Hunt Source](https://github.com/holycrap872/hp-learn-shell)
-    - [HP Scavenger Hunt Docker Image](https://hub.docker.com/repository/docker/erizzi/hp_terminal_tutorial/general)
+
+#### Links to Other Resources
+
+- [HP Scavenger Hunt Source](https://github.com/holycrap872/hp-learn-shell)
+- [HP Scavenger Hunt Docker Image](https://hub.docker.com/repository/docker/erizzi/hp_terminal_tutorial/general)

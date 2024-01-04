@@ -36,10 +36,13 @@ students should learn to interact with.
 
 2023 - 2024
 
-#### Links
+#### Main Links
 
 - [Main Repository](https://github.com/holycrap872/ML-AI)
 - [Course Documents](https://github.com/holycrap872/ML-AI/tree/mainline/CourseMaterial/course_documents)
 - [Course Curriculum](https://github.com/holycrap872/ML-AI/tree/mainline/CourseMaterial)
-- Other Resources
-    - [Problem Set Skeleton](https://gitlab.com/eric.rizzi/problem-set-skeleton)
+
+#### Links to Other Resources
+
+- [Problem Set Skeleton](https://gitlab.com/eric.rizzi/problem-set-skeleton)
+    - CI/CD enabled
