@@ -27,9 +27,9 @@ quickly apply it.
 
 ![Computers at varying levels of abstraction]({{ site.baseurl }}/assets/abstract_computers.jpg)
 
-The course has a four class unit on abstraction where students are asked to
+The course has a four-class unit on abstraction where students are asked to
 analyze abstraction from a variety of different angles. This includes drawing
-their own abstract art for a pictionary-type game, understanding how a toilet
+their own abstract art for a Pictionary-type game, understanding how a toilet
 works, and solving a series of logic puzzles. In the end, students come away
 with an appreciation for why abstraction is important for thinking and
 communicating with others as well as how it is used within computer science.
@@ -48,7 +48,11 @@ for the terminal. Instead, it is because it addresses the fact that most
 students have an innate belief that the terminal is something "evil" that only
 hackers or the geniuses would use. By having them quickly learn the basics of
 something that seemed mysterious to them before, they gain confidence when
-approaching new technolgy.
+approaching new technology.
+
+#### Computer Storage
+
+#### Computer Dissection
 
 #### Years Taught
 
