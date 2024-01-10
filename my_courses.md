@@ -12,6 +12,16 @@ abstractions that give computers their power.
 
 [Click here]({{ site.baseurl }}/course_specifics/ms_cs.html) for more information
 
+# High School Introduction to Computer Science
+
+Somewhat presciently, CS was added as a requirement to lab in the late 70's.
+Since then, this full year course has prepared freshman for any computer science
+needs they might have throughout their High School career. Topics covered
+include number systems, digitization, python programming, and various important
+CS topics.
+
+[Click here]({{ site.baseurl }}/course_specifics/hs_cs.html) for more information
+
 # Machine Learning/Artificial Intelligence
 
 The purpose of the course is to simultaneously teach students the equivalent of
