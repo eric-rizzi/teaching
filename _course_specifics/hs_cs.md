@@ -52,5 +52,5 @@ match particular problems. In addition, they are able to use the debugger to
     - Variables via [Personality Quizzes]() - PENDING
     - Loops via [Turtle Shapes]() - PENDING
     - Functions via [Turtles](https://docs.google.com/document/d/1nuLRRCuIOU1Zo1gXZ4k0tzFMrFzH-8KSoizjojTbjrs/edit?usp=sharing)
-    - Advanced Loops via [EmojiPics]() - PENDING
+    - Advanced Loops via [EmojiPics](https://docs.google.com/document/d/1eRyqf4Wh6QenNvJX7IhwrWWl2eKnvaMdclrB-PerWaM/edit?usp=sharing)
     - Lists via [Prisoners Dilemma](https://docs.google.com/document/d/1iJNkXb0R5W_jMuB-XOxgN02fbZqsR9DcLtz0XxeW7jg/edit?usp=sharing)
