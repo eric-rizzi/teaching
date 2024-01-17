@@ -40,9 +40,9 @@ match particular problems. In addition, they are able to use the debugger to
 
 #### Main Links
 
-- [Main Repository](https://github.com/holycrap872/ML-AI)
-- [Course Documents](https://github.com/holycrap872/ML-AI/tree/mainline/CourseMaterial/course_documents)
-- [Course Curriculum](https://github.com/holycrap872/ML-AI/tree/mainline/CourseMaterial)
+- [Main Repository]() - PENDING
+- [Course Documents]() - PENDING
+- [Course Curriculum]() - PENDING
 
 #### Links to Other Resources
 
