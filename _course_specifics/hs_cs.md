@@ -55,5 +55,6 @@ match particular problems. In addition, they are able to use the debugger to
     - Using [turtles to teach functions](https://docs.google.com/document/d/1nuLRRCuIOU1Zo1gXZ4k0tzFMrFzH-8KSoizjojTbjrs/edit?usp=sharing)
     - Using [EmojiPics to teach advanced loops](https://docs.google.com/document/d/1eRyqf4Wh6QenNvJX7IhwrWWl2eKnvaMdclrB-PerWaM/edit?usp=sharing)
     - Using the [Prisoner's Dilemma to teach lists](https://docs.google.com/document/d/1iJNkXb0R5W_jMuB-XOxgN02fbZqsR9DcLtz0XxeW7jg/edit?usp=sharing)
+    - Using [turtle interpreters to teach while loops](https://docs.google.com/document/d/1mF3aDeWq6XYz056j8OPSvZ3ShTWoepHrrD5vVlUfK7w/edit?usp=sharing)
     - Using [turtles to teach recursion](https://docs.google.com/document/d/1uxqeDiqkhtJlYv2xL3hek8-EbtCOKydMh9Ba9qL2BvA/edit?usp=sharing)
     - Using [PyGame to teach about objects]() - PENDING
