@@ -61,10 +61,13 @@ match particular problems. In addition, they are able to use the debugger to
         - Using the [Prisoner's Dilemma to teach lists](https://docs.google.com/document/d/1iJNkXb0R5W_jMuB-XOxgN02fbZqsR9DcLtz0XxeW7jg/edit?usp=sharing)
     - Lesson 8: Looping and lists
         - Using [turtle interpreters to teach while loops](https://docs.google.com/document/d/1mF3aDeWq6XYz056j8OPSvZ3ShTWoepHrrD5vVlUfK7w/edit?usp=sharing)
+    - Review:
+        - Using [a problem set to review for the unit test](https://docs.google.com/document/d/14GKx1AaB0O0fBH9AcmVAaJzPGk21_oIWB6BlDdjIhCY/edit?usp=sharing)
 - Grok Introduction to Programming 2 (Python) Supplemental Material
     - Lesson 7: Functions
         - Using [turtles to teach recursion](https://docs.google.com/document/d/1uxqeDiqkhtJlYv2xL3hek8-EbtCOKydMh9Ba9qL2BvA/edit?usp=sharing)
     - Lesson 3: Files
+        - Altering a [Bitmap to understand file formats](https://docs.google.com/document/d/1l6cYOHgc4svrhHIA_bq6oGIQXa7OGLsPTTuATS6NgbE/edit?usp=sharing)
         - Using a [terminal scavenger hunt to understand the file system](https://github.com/holycrap872/hp-learn-shell)
 
 #### Pending
