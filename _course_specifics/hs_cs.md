@@ -77,6 +77,14 @@ match particular problems. In addition, they are able to use the debugger to
 
 #### Fractal Library
 
-- ![Triangle Fractal]({{ site.baseurl }}/assets/fractal_triangle_1.png)
-- ![Circle Fractal]({{ site.baseurl }}/assets/fractal_circle_1.png)
-- ![Hexagon Fractal]({{ site.baseurl }}/assets/fractal_hexagon_1.png)
+##### Triangles!
+
+![Triangle Fractal]({{ site.baseurl }}/assets/fractal_triangle_1.png)
+
+##### Circles!
+
+![Circle Fractal]({{ site.baseurl }}/assets/fractal_circle_1.png)
+
+##### Hexagons!
+
+![Hexagon Fractal]({{ site.baseurl }}/assets/fractal_hexagon_1.png)
