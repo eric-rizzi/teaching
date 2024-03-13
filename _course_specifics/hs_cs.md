@@ -40,9 +40,10 @@ match particular problems. In addition, they are able to use the debugger to
 
 #### Main Links
 
-- [Main Repository]() - PENDING
-- [Course Documents]() - PENDING
-- [Course Curriculum]() - PENDING
+- [Main Repository](https://github.com/holycrap872/HSIntroToCS)
+- [Course Documents](https://github.com/holycrap872/HSIntroToCS/tree/mainline/CourseMaterial/course_documents)
+- [Course Curriculum](https://github.com/holycrap872/HSIntroToCS/tree/mainline/CourseMaterial)
+- [Slides]() - PENDING
 
 #### Links to Other Resources
 
