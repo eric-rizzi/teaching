@@ -74,3 +74,9 @@ match particular problems. In addition, they are able to use the debugger to
 
 - Using [music to teach basic debugging techniques]() - PENDING
 - Using [PyGame to teach about objects]() - PENDING
+
+#### Fractal Library
+
+- ![Triangle Fractal]({{ site.baseurl }}/assets/fractal_triangle_1.png)
+- ![Circle Fractal]({{ site.baseurl }}/assets/fractal_circle_1.png)
+- ![Hexagon Fractal]({{ site.baseurl }}/assets/fractal_hexagon_1.png)
