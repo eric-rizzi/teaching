@@ -21,7 +21,7 @@ include:
 
 #### Digital Representation
 
-![]({{ site.baseurl }}/assets/binary_crossword.png)
+![Binary Crossword Puzzle]({{ site.baseurl }}/assets/binary_crossword.png)
 
 The course begins with a unit exploring how different types of data are
 represented on a computer. Students come to understand that computers simply
@@ -30,7 +30,8 @@ hold 1's and 0's and that the only thing that changes is the way these 1's and
 
 Activities include an ASCII-based scavenger hunt, the
 [Flippy Bit Game](https://flippybitandtheattackofthehexadecimalsfrombase16.com/),
-and an altering the underlying bits of emojis to produce new ones.
+and introduction to hex editing software in order to change from one emoji to
+another.
 
 ##### Keywords
 
@@ -38,16 +39,17 @@ Data, Binary, Hexadecimal, RGB, Encoding, Decoding, Number Systems, ASCII
 
 #### Introduction to Python
 
-![]({{ site.baseurl }}/assets/python_emojis.png)
+![Python Emojis]({{ site.baseurl }}/assets/python_emojis.png)
 
 The Introduction to Python unit is taught using the [Grok Learning](https://groklearning.com)
 framework as its foundation. On top of Grok, we supplement the material with
 various PRIMM based activities. These include old classics like having students
-create MadLibs (strings) and Personality Quizzes (variable) to our own ideas
-such as teaching Prisoners Dilemma (lists) and EmojiPics (loops).
+create MadLibs (strings), Personality Quizzes (variables), and Turtles (loops)
+to our own ideas such as teaching Prisoners Dilemma (lists) and EmojiPics
+(loops).
 
-In the ends, students are able to effectively read, write, and modify code to
-match particular problems.
+In the end, students are able to effectively read, write, and modify code to
+solve particular problems.
 
 ##### Keywords
 
@@ -55,7 +57,7 @@ Programming, PRIMM, Python, Lists, Variables, Loops, Turtles, EmojiPics
 
 #### Intermediate Python
 
-![]({{ site.baseurl }}/assets/fractal_tree.jpg)
+![Fractal Tree]({{ site.baseurl }}/assets/fractal_tree.jpg)
 
 Given the basic understanding of Python that students get in the previous unit,
 this shorter set of classes gives students a rigorous look into how computers
@@ -71,13 +73,15 @@ Programming, PRIMM, Python, File System, Fractals, Recursion
 
 #### Image Manipulation via Python
 
-This final programming unit uses image manipulation (e.g., converting an image
+![Green Screen Bear]({{ site.baseurl }}/assets/bear_green.jpg)
+
+This final programming unit uses bitmap manipulation (e.g., converting an image
 to black and white, combining two images) to given students additional practice
-with creating and using loops. In addition, it further reinforces the concepts
-of data on the file system being a simple set of 1's and 0's that can be
-manipulated. The unit is particularly nice because it scales to the wide
-variety of skill sets seen in a gen-ed class with a large number of "stretch
-problems" for even the most motivated student.
+with creating and using loops. In addition, it reinforces the concepts of data 
+on the file system being a simple set of 1's and 0's that can be manipulated.
+The unit is particularly nice because it scales to the wide variety of skill
+sets seen in a gen-ed class with a large number of "stretch problems" for even
+the most motivated student.
 
 ##### Keywords
 
