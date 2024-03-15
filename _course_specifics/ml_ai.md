@@ -39,7 +39,7 @@ students should learn to interact with.
 #### Main Links
 
 - [Main Repository](https://github.com/holycrap872/ML-AI)
-- [Course Documents](https://github.com/holycrap872/ML-AI/tree/mainline/CourseMaterial/course_documents)
+- [Course Documents](https://github.com/holycrap872/ML-AI/tree/mainline/CourseDocuments)
 - [Course Curriculum](https://github.com/holycrap872/ML-AI/tree/mainline/CourseMaterial)
 
 #### Links to Other Resources

@@ -98,7 +98,7 @@ CPU, Hard Drive, Memory, Mother Board, Moore's Law, Interactive
 #### Main Links
 
 - [Main Repository](https://github.com/holycrap872/MSIntroToCS)
-- [Course Documents](https://github.com/holycrap872/MSIntroToCS/tree/mainline/CourseMaterials/course_documents)
+- [Course Documents](https://github.com/holycrap872/MSIntroToCS/tree/mainline/CourseDocuments)
 - [Course Curriculum](https://github.com/holycrap872/MSIntroToCS/tree/mainline/CourseMaterials)
 - [Slides](https://docs.google.com/presentation/d/1_haSfJvCY0OA6x6Ym1PqG1iJuH38eZB0TawBFXFAJXg/edit?usp=sharing)
 

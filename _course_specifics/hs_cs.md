@@ -98,7 +98,7 @@ TBD
 #### Main Links
 
 - [Main Repository](https://github.com/holycrap872/HSIntroToCS)
-- [Course Documents](https://github.com/holycrap872/HSIntroToCS/tree/mainline/CourseMaterial/course_documents)
+- [Course Documents](https://github.com/holycrap872/HSIntroToCS/tree/mainline/CourseDocuments)
 - [Course Curriculum](https://github.com/holycrap872/HSIntroToCS/tree/mainline/CourseMaterial)
 - [Slides]() - PENDING
 
