@@ -6,18 +6,25 @@
 <body>
     <h1>3D Printing CSV Data</h1>
 
+    <p>
     I worked with the science department (physics) to allow them to 3D print data
     that the students gathered during various experiments. It initially came about
     as a way to show students what measurements of magnetism on a electrified plate
     looks like, but it really can be anything. For example, the picture below shows
     the result of the conversion which can then be used to 3D print the data.
+    </p>
 
     <!-- Image inclusion -->
     <img src="/teaching/assets/stl_conversion.png" alt="Picture of converted csv data">
 
     <!-- File upload interface -->
-    <input id="fileUpload" type="file" />
-    <button onclick="uploadFile()">Upload File</button>
+    <div id="upload_form">
+        <p>Click here to upload a `.csv` file and get the converted `.stl`</p>
+        <div>
+            <input id="fileUpload" type="file" />
+            <button onclick="uploadFile()">Upload File</button>
+        </div>
+    </div>
 
     <script>
     async function uploadFile() {
