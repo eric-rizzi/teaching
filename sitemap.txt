@@ -4,3 +4,4 @@ https://holycrap872.github.io/teaching/course_specifics/ms_cs.html
 https://holycrap872.github.io/teaching/course_specifics/hs_cs.html
 https://holycrap872.github.io/teaching/course_specifics/ml_ai.html
 https://holycrap872.github.io/teaching/outside_resources.html
+https://holycrap872.github.io/teaching/my_projects.html
