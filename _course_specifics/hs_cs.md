@@ -142,6 +142,7 @@ TBD
 ##### Circles!
 
 ![Circle Fractal]({{ site.baseurl }}/assets/fractal_circle_1.png)
+![Sun Fractal]({{ site.baseurl }}/assets/fractal_circle_2.png)
 
 ##### Hexagons!
 
