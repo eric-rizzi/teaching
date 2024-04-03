@@ -59,10 +59,10 @@ Programming, PRIMM, Python, Lists, Variables, Loops, Turtles, EmojiPics
 
 ![Fractal Tree]({{ site.baseurl }}/assets/fractal_tree.jpg)
 
-Given the basic understanding of Python that students get in the previous unit,
-this shorter set of classes gives students a rigorous look into how computers
-actually work and how they can be used to model real world phenomena. In
-particular, there is a large emphasis on the power of functions illustrated
+Given the basic understanding of Python that students got in the previous unit,
+this set of classes is designed to give students a rigorous look into how
+computers actually work and how they can be used to model real world phenomena.
+In particular, there is a large emphasis on the power of functions illustrated
 through fractals and recursion. In addition, students come to understand the
 file system better by creating their own favicon via a hex editor and beginning
 to use `vscode`.
@@ -124,6 +124,8 @@ TBD
 - Grok Introduction to Programming 2 (Python) Supplemental Material
     - Lesson 7: Functions
         - Using [turtles to teach recursion](https://docs.google.com/document/d/1uxqeDiqkhtJlYv2xL3hek8-EbtCOKydMh9Ba9qL2BvA/edit?usp=sharing)
+        - Using [RoboZZle to teach recursion](https://docs.google.com/document/d/1geA35sBsmh0JVb86Vq6VlK-M6cPrrpXxdgqqpOUq6Yc/edit?usp=sharing)
+        - Using [A RoboZZle inspired Turbozzle to teach vscode](https://docs.google.com/document/d/1fekLawCFuocIC7UNs41wR1hAvdX_QMzMMIOz599dnUU/edit)
     - Lesson 3: Files
         - Altering a [Bitmap to understand file formats](https://docs.google.com/document/d/1l6cYOHgc4svrhHIA_bq6oGIQXa7OGLsPTTuATS6NgbE/edit?usp=sharing)
         - Using a [terminal scavenger hunt to understand the file system](https://github.com/holycrap872/hp-learn-shell)
