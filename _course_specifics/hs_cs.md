@@ -57,7 +57,7 @@ Programming, PRIMM, Python, Lists, Variables, Loops, Turtles, EmojiPics
 
 #### Intermediate Python
 
-![Fractal Tree]({{ site.baseurl }}/assets/fractal_tree.jpg)
+![Fractal Tree]({{ site.baseurl }}/assets/forest.jpg)
 
 Given the basic understanding of Python that students got in the previous unit,
 this set of classes is designed to give students a rigorous look into how
@@ -134,18 +134,3 @@ TBD
 
 - Using [music to teach basic debugging techniques]() - PENDING
 - Using [PyGame to teach about objects]() - PENDING
-
-#### Fractal Library
-
-##### Triangles!
-
-![Triangle Fractal]({{ site.baseurl }}/assets/fractal_triangle_1.png)
-
-##### Circles!
-
-![Circle Fractal]({{ site.baseurl }}/assets/fractal_circle_1.png)
-![Sun Fractal]({{ site.baseurl }}/assets/fractal_circle_2.png)
-
-##### Hexagons!
-
-![Hexagon Fractal]({{ site.baseurl }}/assets/fractal_hexagon_1.png)
