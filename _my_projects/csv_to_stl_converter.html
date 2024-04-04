@@ -48,6 +48,7 @@
                     'Content-Type': 'text/plain', // Adjust if necessary
                 },
                 body: base64FileContent,
+                isBase64Encoded: true,
             })
             .then(response => {
                 // Ensure the request was successful
