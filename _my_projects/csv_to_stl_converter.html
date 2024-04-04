@@ -39,15 +39,15 @@
 
         const reader = new FileReader();
         reader.onloadend = function() {
-            // Get the file content as base64
-            const base64FileContent = reader.result.split(',')[1];
+            // Get the file contents
+            const arrayBuffer = reader.result;
 
             fetch('https://mvni37cg8e.execute-api.us-east-2.amazonaws.com/csv', {
                 method: 'POST',
                 headers: {
-                    'Content-Type': 'application/octet-stream',
+                    'Content-Type': file.type,
                 },
-                body: base64FileContent,
+                body: arrayBuffer,
             })
             .then(response => {
                 // Ensure the request was successful
