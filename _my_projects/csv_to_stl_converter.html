@@ -29,8 +29,6 @@
 
     <script>
     async function uploadFile() {
-
-
         const fileInput = document.getElementById('fileInput');
         const file = fileInput.files[0];
 
@@ -43,7 +41,7 @@
         reader.onloadend = function() {
             // Get the file content as base64
             const base64FileContent = reader.result.split(',')[1];
-            
+
             fetch('https://mvni37cg8e.execute-api.us-east-2.amazonaws.com/csv', {
                 method: 'POST',
                 headers: {
@@ -71,8 +69,9 @@
                 alert('Error uploading file.');
             });
         };
-    
+
         reader.readAsDataURL(file); // Read the file as a Data URL (base64)
+    }
     </script>
 
 </body>
