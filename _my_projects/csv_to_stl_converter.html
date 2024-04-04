@@ -45,10 +45,9 @@
             fetch('https://mvni37cg8e.execute-api.us-east-2.amazonaws.com/csv', {
                 method: 'POST',
                 headers: {
-                    'Content-Type': 'text/plain', // Adjust if necessary
+                    'Content-Type': 'application/octet-stream',
                 },
                 body: base64FileContent,
-                isBase64Encoded: true,
             })
             .then(response => {
                 // Ensure the request was successful
