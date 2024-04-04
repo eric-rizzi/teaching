@@ -36,23 +36,14 @@
 
         try {
             // Request a pre-signed URL from your server
-            const response = await fetch(`https://your-lambda-api-endpoint?filename=${file.name}`);
+            const response = await fetch(`https://mvni37cg8e.execute-api.us-east-2.amazonaws.com/csv`);
             const data = await response.json();
-            const presignedUrl = data.url;
-
-            // Use the pre-signed URL to upload the file
-            const uploadResponse = await fetch(presignedUrl, {
-                method: 'PUT',
-                body: file,
-                headers: {
-                    'Content-Type': 'binary/octet-stream'
-                },
-            });
+            const presignedUrl = data.location;
 
             if (uploadResponse.ok) {
-                alert('File uploaded successfully.');
+                alert('File transformed successfully. Download from ', location);
             } else {
-                alert('File upload failed.');
+                alert('File transform failed.');
             }
         } catch (error) {
             console.error('Error uploading file:', error);
