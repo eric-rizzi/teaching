@@ -24,6 +24,7 @@
             <input id="fileUpload" type="file" />
             <button onclick="uploadFile()">Upload File</button>
         </div>
+        <div id="downloadLink"></div>
     </div>
 
     <script>
@@ -36,12 +37,21 @@
 
         try {
             // Request a pre-signed URL from your server
-            const response = await fetch(`https://mvni37cg8e.execute-api.us-east-2.amazonaws.com/csv`);
-            const data = await response.json();
-            const presignedUrl = data.location;
+            const formData = new FormData();
+            formData.append('file', file);
 
-            if (uploadResponse.ok) {
-                alert('File transformed successfully. Download from ', location);
+            const response = await fetch(
+                'https://mvni37cg8e.execute-api.us-east-2.amazonaws.com/csv',
+                {
+                    method: 'POST',
+                    body: formData,
+                },
+            );
+            const result = await response.json();
+
+            const location = result.location;
+            if (location) {
+                document.getElementById('downloadLink').innerHTML = `<a href="${location}">Download File</a>`;
             } else {
                 alert('File transform failed.');
             }
