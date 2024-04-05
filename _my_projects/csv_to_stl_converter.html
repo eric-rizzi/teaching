@@ -15,18 +15,20 @@
     </p>
 
     <!-- Image inclusion -->
-    <img src="/teaching/assets/stl_conversion.png" alt="Picture of converted csv data" width="400">
+    <img src="/teaching/assets/stl_conversion.png" alt="Picture of converted csv data" width="420">
 
-    <!-- File upload interface -->
-    <div id="upload_form">
-        <p>Click here to upload a `.csv` file and get the converted `.stl`</p>
-        <div>
-            <input id="fileUpload" type="file" />
-            <button id="uploadButton" onclick="uploadFile()">Upload File</button>
+    <!-- File transform interface -->
+    <div>
+        <div id="upload_form" style="border-style: solid; width: 400px; padding: 10px;">
+            <p>Click here to upload a `.csv` file and get the converted `.stl`</p>
+            <div>
+                <input id="fileUpload" type="file" />
+                <button id="uploadButton" onclick="uploadFile()">Upload File</button>
+            </div>
         </div>
+        <p></p>
+        <div id="downloadMessage">After upload, transform will be available for download here</div>
     </div>
-    <p></p>
-    <div id="downloadMessage">After upload, transform will be available for download here</div>
 
     <script>
     async function uploadFile() {
