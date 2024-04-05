@@ -22,20 +22,23 @@
         <p>Click here to upload a `.csv` file and get the converted `.stl`</p>
         <div>
             <input id="fileUpload" type="file" />
-            <button onclick="uploadFile()">Upload File</button>
+            <button id="uploadButton" onclick="uploadFile()">Upload File</button>
         </div>
-        <div id="downloadLink"></div>
+        <div id="downloadMessage">After upload, transform will be available for download here</div>
     </div>
 
     <script>
     async function uploadFile() {
         const fileInput = document.getElementById('fileUpload');
         const file = fileInput.files[0];
+        const downloadMessage = document.getElementById('downloadMessage');
 
         if (!file) {
             alert('No file selected.');
             return;
         }
+
+        downloadMessage.innerHTML = "Transforming....";
 
         const reader = new FileReader();
         reader.onloadend = function() {
@@ -62,7 +65,7 @@
                 // Read the "location" field from the response
                 const location = data.location;
                 console.log('Location:', location);
-                document.getElementById('downloadLink').innerHTML = `<a href="${location}">Download File</a>`;
+                downloadMessage.innerHTML = `<a href="${location}">Download File</a>`;
             })
             .catch(error => {
                 console.error('Error during fetch:', error);
