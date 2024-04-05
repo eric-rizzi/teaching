@@ -15,7 +15,7 @@
     </p>
 
     <!-- Image inclusion -->
-    <img src="/teaching/assets/stl_conversion.png" alt="Picture of converted csv data">
+    <img src="/teaching/assets/stl_conversion.png" alt="Picture of converted csv data" width="400">
 
     <!-- File upload interface -->
     <div id="upload_form">
@@ -24,8 +24,9 @@
             <input id="fileUpload" type="file" />
             <button id="uploadButton" onclick="uploadFile()">Upload File</button>
         </div>
-        <div id="downloadMessage">After upload, transform will be available for download here</div>
     </div>
+    <p></p>
+    <div id="downloadMessage">After upload, transform will be available for download here</div>
 
     <script>
     async function uploadFile() {
