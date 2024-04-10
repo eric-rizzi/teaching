@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Upload to S3</title>
+    <link rel="stylesheet" href="https://cdn.simplecss.org/simple.css">
 </head>
 <body>
     <h1>3D Printing CSV Data</h1>
@@ -25,40 +26,39 @@
     </p>
 
     <!-- Image inclusion -->
-    <img src="/teaching/assets/stl_conversion.png" alt="Picture of converted csv data" width="420">
+    <img src="/teaching/assets/stl_conversion.png" alt="Picture of converted csv data" width="620">
 
     <h2>The steps for how to convert your data are:</h2>
-        <ol>
-            <li>
-                Copy any Electric Potential Data into a blank spreadsheet where
-                <em>ONLY</em> the data is included. The data should start in the
-                <em>top left corner</em> of the spreadsheet. Make sure the
-                spreadsheet is saved as a <strong>.CSV file</strong> and not as
-                a .xls, or .xlsx, or a Google Sheets file.
-            </li>
-            <li>
-                Select "Browse..." and select your <strong>.CSV file</strong>.
-            </li>
-            <li>
-                Select "Upload File".
-            </li>
-            <li>
-                After a short time, a "Download File" link will appear at the
-                bottom. Click this link to download your <strong>.STL file</strong>.
-            </li>
-            <li>
-                You can then open this file in the 3D printing editing software
-                of your choice. You will need to "fill down" the data on the
-                z-axis so that it will 3D print properly. This is something that
-                anyone managing the 3D printer at your school should be able to
-                help you with.
-            </li>
-        </ol>
-    </p>
+    <ol>
+        <li>
+            Copy any Electric Potential Data into a blank spreadsheet where
+            <em>ONLY</em> the data is included. The data should start in the
+            <em>top left corner</em> of the spreadsheet. Make sure the
+            spreadsheet is saved as a <strong>.CSV file</strong> and not as
+            a .xls, or .xlsx, or a Google Sheets file.
+        </li>
+        <li>
+            Select "Browse..." and select your <strong>.CSV file</strong>.
+        </li>
+        <li>
+            Select "Upload File".
+        </li>
+        <li>
+            After a short time, a "Download File" link will appear at the
+            bottom. Click this link to download your <strong>.STL file</strong>.
+        </li>
+        <li>
+            You can then open this file in the 3D printing editing software
+            of your choice. You will need to "fill down" the data on the
+            z-axis so that it will 3D print properly. This is something that
+            anyone managing the 3D printer at your school should be able to
+            help you with.
+        </li>
+    </ol>
 
     <!-- File transform interface -->
     <h2>Transformation Form</h2>
-    <div style="border-style: solid; width: 400px; padding: 10px;">
+    <div style="border-style: solid; width: 600px; padding: 10px;">
         <div id="upload_form">
             <p>Click here to upload a <strong>.CSV file</strong></p>
             <div>
@@ -66,7 +66,6 @@
                 <button id="uploadButton" onclick="uploadFile()">Upload File</button>
             </div>
         </div>
-        <p></p>
         <div id="downloadMessage">After upload, transform will be available for download here</div>
     </div>
 
