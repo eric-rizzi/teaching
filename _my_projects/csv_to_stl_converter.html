@@ -2,86 +2,113 @@
 <html>
 <head>
     <title>Upload to S3</title>
-    <link rel="stylesheet" href="https://cdn.simplecss.org/simple.css">
+    <link rel="stylesheet" href="/teaching/assets/main.css">
 </head>
 <body>
-    <h1>3D Printing CSV Data</h1>
 
-    <p>
-        This website was created to convert <strong>.CSV files</strong> into
-        <strong>.STL files</strong> so they can be 3D printed.
-    </p>
-    <p>
-        The original intention of this website was to take Electric Potential
-        Data collected on Conductive Paper and allow students to 3D print their
-        collected Electric Potential Map. The website maps the rows and columns
-        to the X and Y axis and maps the value in each cell to the Z axis for
-        the 3D printer.
-    </p>
-    <p>
-        Beyond Conductive data, though, any <strong>.CSV file</strong> that is
-        basically a "height map" with X and Y coordinates and a Z "height" can
-        be converted. This allows for a wide variety of experiments to be
-        represented and printed.
-    </p>
 
-    <!-- Image inclusion -->
-    <img src="/teaching/assets/stl_conversion.png" alt="Picture of converted csv data" width="620">
+    <!-- Copied from the CS Teaching Resources Page -->
+    <div class="wrapper"><a class="site-title" rel="author" href="/teaching/">CSV Transformation</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger">
+        <label for="nav-trigger">
+        <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+            <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"></path>
+            </svg>
+        </span>
+        </label>
 
-    <h2>The steps for how to convert your data are:</h2>
-    <ol>
-        <li>
-            Copy any Electric Potential Data into a blank spreadsheet where
-            <em>ONLY</em> the data is included. The data should start in the
-            <em>top left corner</em> of the spreadsheet. Make sure the
-            spreadsheet is saved as a <strong>.CSV file</strong> and not as
-            a .xls, or .xlsx, or a Google Sheets file.
-        </li>
-        <li>
-            Navigate to the Transformation Form (below)
-        </li>
-        <li>
-            Select "Browse..." and choose your <strong>.CSV file</strong>.
-        </li>
-        <li>
-            Select "Upload File".
-        </li>
-        <li>
-            After five to ten seconds, a "Download File" link will appear at the
-            bottom. Click this link to download your <strong>.STL file</strong>.
-        </li>
-        <li>
-            You can then open this file in the 3D printing editing software
-            of your choice. You will need to "fill down" the data on the
-            z-axis so that it will 3D print properly. This is something that
-            anyone managing the 3D printer at your school should be able to
-            help you with.
-        </li>
-    </ol>
+        <div class="trigger"><a class="page-link" href="/teaching/">Home</a><a class="page-link" href="/teaching/my_courses.html">My Courses</a><a class="page-link" href="/teaching/my_projects.html">My Projects</a><a class="page-link" href="/teaching/outside_resources.html">Outside Resources</a></div>
+    </nav></div>
 
-    <!-- File transform interface -->
-    <h2>Transformation Form</h2>
-    <div style="border-style: solid; width: 600px; padding: 10px;">
-        <div id="upload_form">
-            <p>Click here to upload a <strong>.CSV file</strong></p>
-            <div>
-                <input id="fileUpload" type="file" accept=".csv" />
-                <button id="uploadButton" onclick="uploadFile()">Upload File</button>
-            </div>
+
+    <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+            <article class="post">
+                <header class="post-header">
+                    <h1 class="post-title">3D Printing CSV Data</h1>
+                </header>
+                <div class="post-content">
+                    <p>
+                        This page was created to convert <strong>.CSV files</strong> into
+                        <strong>.STL files</strong> so they can be 3D printed.
+                    </p>
+                    <p>
+                        The original intention of this page was to take Electric Potential
+                        Data collected on Conductive Paper and allow students to 3D print their
+                        collected Electric Potential Map. The page maps the rows and columns
+                        to the X and Y axis and maps the value in each cell to the Z axis for
+                        the 3D printer.
+                    </p>
+                    <p>
+                        Beyond Conductive data, though, any <strong>.CSV file</strong> that is
+                        basically a "height map" with X and Y coordinates and a Z "height" can
+                        be converted. This allows for a wide variety of experiments to be
+                        represented and printed.
+                    </p>
+
+                    <!-- Image inclusion -->
+                    <img src="/teaching/assets/stl_conversion.png" alt="Picture of converted csv data" width="620">
+
+                    <h2>The steps for how to convert your data are:</h2>
+                    <ol>
+                        <li>
+                            Copy any Electric Potential Data into a blank spreadsheet where
+                            <em>ONLY</em> the data is included. The data should start in the
+                            <em>top left corner</em> of the spreadsheet. Make sure the
+                            spreadsheet is saved as a <strong>.CSV file</strong> and not as
+                            a .xls, or .xlsx, or a Google Sheets file.
+                        </li>
+                        <li>
+                            Navigate to the Transformation Form (below)
+                        </li>
+                        <li>
+                            Select "Browse..." and choose your <strong>.CSV file</strong>.
+                        </li>
+                        <li>
+                            Select "Upload File".
+                        </li>
+                        <li>
+                            After five to ten seconds, a "Download File" link will appear at the
+                            bottom. Click this link to download your <strong>.STL file</strong>.
+                        </li>
+                        <li>
+                            You can then open this file in the 3D printing editing software
+                            of your choice. You will need to "fill down" the data on the
+                            z-axis so that it will 3D print properly. This is something that
+                            anyone managing the 3D printer at your school should be able to
+                            help you with.
+                        </li>
+                    </ol>
+
+                    <!-- File transform interface -->
+                    <h2>Transformation Form</h2>
+                    <div style="border-style: solid; width: 600px; padding: 10px;">
+                        <div id="upload_form">
+                            <p>Click here to upload a <strong>.CSV file</strong></p>
+                            <div>
+                                <input id="fileUpload" type="file" accept=".csv" />
+                                <button id="uploadButton" onclick="uploadFile()">Upload File</button>
+                            </div>
+                        </div>
+                        <div id="downloadMessage">After upload, transform will be available for download here</div>
+                    </div>
+
+                    <p>
+                        This page was created by a senior at the University of Chicago
+                        Laboratory School with the help of me (Eric Rizzi) and Matthew Bonges, a
+                        Physics Teacher at the UCLS.
+                    </p>
+                    
+                    <p>
+                        If you have any comments or questions, please feel free to reach out to
+                        Matthew Bonges at mbonges@ucls.uchicago.edu.
+                    </p>
+                </div>
+            </article>
         </div>
-        <div id="downloadMessage">After upload, transform will be available for download here</div>
-    </div>
+    </main>
 
-    <p>
-        This website was created by a Senior at the University of Chicago
-        Laboratory School. Matthew Bonges, a Physics Teacher at the University of
-        Chicago Laboratory School provided guidance.
-     </p>
-    
-    <p>
-        If you have any comments or questions, please feel free to reach out to
-        Matthew Bonges at mbonges@ucls.uchicago.edu.
-    </p>
 
     <script>
     async function uploadFile() {
