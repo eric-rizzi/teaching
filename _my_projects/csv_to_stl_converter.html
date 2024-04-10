@@ -7,20 +7,59 @@
     <h1>3D Printing CSV Data</h1>
 
     <p>
-    I worked with the science department (physics) to allow them to 3D print data
-    that the students gathered during various experiments. It initially came about
-    as a way to show students what measurements of magnetism on a electrified plate
-    looks like, but it really can be anything. For example, the picture below shows
-    the result of the conversion which can then be used to 3D print the data.
+        This website was created to convert <strong>.CSV files</strong> into
+        <strong>.STL files</strong> to be 3D Printed.
+    </p>
+    <p>
+        The original intention for this is to take Electric Potential Data
+        collected on Conductive Paper and allow students to 3D print their
+        collected Electric Potential Map. The website maps the rows and columns
+        to the X and Y axis and maps the value in each cell to the Z axis for
+        the 3D printer.
+    </p>
+    <p>
+        Beyond Conductive data, any <strong>.CSV file</strong> that is basically
+        a "height map" with X and Y coordinates and a Z "height" can be
+        converted. This allows for a wide variety of experiments to be
+        represented and printed.
     </p>
 
     <!-- Image inclusion -->
     <img src="/teaching/assets/stl_conversion.png" alt="Picture of converted csv data" width="420">
 
+    <h2>The steps for how to convert your file are:</h2>
+        <ol>
+            <li>
+                Copy any Electric Potential Data into a blank spreadsheet where
+                ONLY the data is included. The data should start in the top left
+                of the spreadsheet. Make sure this is saved as a <strong>.CSV file</strong>
+                and not as a .xls, or .xlsx, or as a Google Sheets file.
+            </li>
+            <li>
+                Select "Choose File" and select your .CSV file.
+            </li>
+            <li>
+                Select "Upload File."
+            </li>
+            <li>
+                After a short time, a "Download File" link will appear at the
+                bottom. Click this link to download your .STL file.
+            </li>
+            <li>
+                You can then open this file in the 3D printing editing software
+                of your choice. You will need to "fill down" the data on the
+                z-axis so that it will 3D print properly. This is something that
+                anyone managing the 3D printer at your school should be able to
+                help you with.
+            </li>
+        </ol>
+    </p>
+
     <!-- File transform interface -->
+    <h2>Transformation Form</h2>
     <div style="border-style: solid; width: 400px; padding: 10px;">
         <div id="upload_form">
-            <p>Click here to upload a `.csv` file and get the converted `.stl`</p>
+            <p>Click here to upload a <strong>.CSV file</strong></p>
             <div>
                 <input id="fileUpload" type="file" />
                 <button id="uploadButton" onclick="uploadFile()">Upload File</button>
@@ -29,6 +68,17 @@
         <p></p>
         <div id="downloadMessage">After upload, transform will be available for download here</div>
     </div>
+
+    <p>
+        This website was created by a Senior at the University of Chicago
+        Laboratory School. Matthew Bonges, a Physics Teacher at the University of
+        Chicago Laboratory School provided guidance.
+     </p>
+    
+    <p>
+        If you have any comments or questions, please feel free to reach out to
+        Matthew Bonges at mbonges@ucls.uchicago.edu.
+    </p>
 
     <script>
     async function uploadFile() {
