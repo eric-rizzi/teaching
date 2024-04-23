@@ -46,3 +46,5 @@ students should learn to interact with.
 
 - [Problem Set Skeleton](https://gitlab.com/eric.rizzi/problem-set-skeleton)
     - CI/CD enabled
+- [Hacker Functions](https://github.com/holycrap872/hacker-functions)
+    - Demonstrates importance of testing via subtle bugs
