@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "High School Introduction to Computer Science"
-date: 2024-03-14
+date: 2024-04-23
 categories:
     - Curriculum
     - High School
@@ -42,7 +42,7 @@ Data, Binary, Hexadecimal, RGB, Encoding, Decoding, Number Systems, ASCII
 ![Python Emojis]({{ site.baseurl }}/assets/python_emojis.png)
 
 The Introduction to Python unit is taught using the [Grok Learning](https://groklearning.com)
-framework as its foundation. On top of Grok, we supplement the material with
+system as its foundation. On top of Grok, we supplement the material with
 various PRIMM based activities. These include old classics like having students
 create MadLibs (strings), Personality Quizzes (variables), and Turtles (loops)
 to our own ideas such as teaching Prisoners Dilemma (lists) and EmojiPics
@@ -75,17 +75,17 @@ Programming, PRIMM, Python, File System, Fractals, Recursion
 
 ![Green Screen Bear]({{ site.baseurl }}/assets/bear_green.jpg)
 
-This final programming unit uses bitmap manipulation (e.g., converting an image
-to black and white, combining two images) to given students additional practice
-with creating and using loops. In addition, it reinforces the concepts of data 
-on the file system being a simple set of 1's and 0's that can be manipulated.
-The unit is particularly nice because it scales to the wide variety of skill
-sets seen in a gen-ed class with a large number of "stretch problems" for even
-the most motivated student.
+This final programming unit has students create bitmap transformations (e.g.,
+converting an image to black and white, combining two images) to give students
+additional practice with loops, conditionals, and functions. In addition, it
+reinforces the concepts of data on the file system being a set of 1's and 0's
+that can be manipulated. The unit is particularly nice because it scales to
+the wide variety of skill sets seen in a gen-ed class with a large number of
+"stretch problems" for even the most motivated/advanced students.
 
 ##### Keywords
 
-Programming, Python, Pixels, RGB, Photo Editing, Photo Shop
+Programming, Python, Pixels, RGB, Photo Editing, PhotoShop
 
 #### Data Storage and Transmission
 
