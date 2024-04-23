@@ -37,8 +37,8 @@ This unit is a four-class progression on abstraction where students are asked to
 analyze abstraction from a variety of different angles. This includes drawing
 their own abstract art for a Pictionary-type game, understanding how a toilet
 works, and solving a series of logic puzzles. In the end, students come away
-with an appreciation for why abstraction is important for thinking and
-communicating with others as well as how it is used within computer science.
+with an appreciation for why abstraction is necessary for thinking and
+communication as well as how it is used within Computer Science.
 
 ##### Keywords:
 
@@ -47,8 +47,8 @@ Magic, Technology, Abstraction, Programming, Functions
 #### Computer Storage
 
 This unit extends the [CS Unplugged](https://youtu.be/VpDDPWVn5-Q?si=l9Kg5dQSOvpgjQUm&t=1708)
-lesson that teaches students about binary can be used to represent different
-types of information. The unit begins by talk about Morse code and and how
+lesson that teaches students how binary can be used to represent different
+types of information. The unit begins with talking about Morse code and how
 "beeps" and "boops" can send letters. Then, students learn how 1's and 0's
 can be used to encode images. In the process, they create their own 8x8 image,
 encode it in binary, and then send it "across the internet" to a friend to see
@@ -84,12 +84,31 @@ This unit introduces students to the hardware that underlies all modern
 computers. In the first class, students act out how a computer loads different
 types of data and operates on it. In the second, they take apart various types
 of computers (desktops/chromebooks) and identify key properties about them
-such as "how fast is a CPU". This mini-scavenger hunt as they take apart a
+such as "how fast is a CPU". This mini "scavenger hunt" as they take apart a
 computer leads to discussion about data, bits, and even Moore's law.
 
 ##### Keywords:
 
 CPU, Hard Drive, Memory, Mother Board, Moore's Law, Interactive
+
+#### Right to Repair
+
+There is a famous quote by Arthur C. Clark that "sufficiently advanced technology
+is indistinguishable from magic". In this final portion of the MS class, we
+reflect on how technologies transition from "magic" to "understandable" as
+you learn more about them. In doing so, we draw on experiences from the class in
+terms of programming, learning about the terminal, and taking apart computers.
+These experiences are then compared with the "Right to Repair" movement, which
+is fundamentally about allowing people to take control on the technology that
+they own. The leads to a discussion about how relying on the abstraction that
+companies and technologies provided is a double-edged sword: providing both an
+ease and a potential loss of power. Finally, the class ends with a call for
+students to trust their own ability to figure things out and not be passive
+consumers.
+
+##### Keywords:
+
+Abstraction, Power, Knowledge, Magic, Technology
 
 #### Years Taught
 
