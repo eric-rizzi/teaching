@@ -12,6 +12,15 @@ looks like, but it really can be anything.
 
 [Click here]({{ site.baseurl }}/my_projects/csv_to_stl_converter.html) for more information.
 
+# PythoShop
+
+The UCLS CS department has an amazing project that where students create their
+own photo-editing software (similiar to PhotoShop). It does a great job teaching
+students about loops, functions, colors, and files. Since arriving at UCLS, I
+have helped Dan and Marty on the project in varous ways.
+
+[Click here]({{ site.baseurl }}/my_projects/pythoshop.html) for more information.
+
 # Image Library
 
 A series of interesting images I've captured... mostly to link to in worksheets.
