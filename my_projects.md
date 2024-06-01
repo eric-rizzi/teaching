@@ -6,18 +6,18 @@ title: "My Projects"
 # 3D Printing Data
 
 I worked with the science department (physics) to allow them to 3D print data
-that the students gathered during various experiments. It initially came about
-as a way to show students what measurements of magnetism on a electrified plate
-looks like, but it really can be anything.
+that students gathered during various experiments. It initially came about as a
+way to show students what measurements of magnetism on a electrified plate looks
+like, but it really can be anything.
 
 [Click here]({{ site.baseurl }}/my_projects/csv_to_stl_converter.html) for more information.
 
 # Robozzle
 
-Robozzle is a logic game originally created in 2009 by Igor Ostrovsky. The
-[original game](http://www.robozzle.com/beta/) let's you program a "robot"
+Robozzle is a logic game originally in 2009 by Igor Ostrovsky. The
+[original game](http://www.robozzle.com/beta/) lets you program a "robot"
 through a bunch of levels using recursion and loops. It does a great job
-helping studentds visualize how functions work. Unfortunately, Robozzle was
+helping students visualize how functions work. Unfortunately, Robozzle was
 starting to show its age. That's when I found [this fully client-side version](https://alexanderson1993.github.io/robozzle-react/)
 of the game. I have helped update it a bit a put it in better shape for teaching.
 
