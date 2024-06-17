@@ -93,13 +93,13 @@ TBD
 
 #### Years Taught
 
-2023 - 2024
+- [2023 - 2024](https://github.com/holycrap872/ucls-hs-intro-to-cs/tree/2023-2024)
 
 #### Main Links
 
-- [Main Repository](https://github.com/holycrap872/HSIntroToCS)
-- [Course Documents](https://github.com/holycrap872/HSIntroToCS/tree/mainline/CourseDocuments)
-- [Course Curriculum](https://github.com/holycrap872/HSIntroToCS/tree/mainline/CourseMaterial)
+- [Main Repository](https://github.com/holycrap872/ucls-hs-intro-to-cs)
+- [Administrative Documents](https://github.com/holycrap872/ucls-hs-intro-to-cs/tree/mainline/Administration)
+- [Course Curriculum](https://github.com/holycrap872/ucls-hs-intro-to-cs/tree/mainline/CourseMaterial)
 - [Slides]() - PENDING
 
 #### Links to Other Resources
@@ -128,7 +128,7 @@ TBD
         - Using [A RoboZZle inspired Turbozzle to teach vscode](https://docs.google.com/document/d/1fekLawCFuocIC7UNs41wR1hAvdX_QMzMMIOz599dnUU/edit)
     - Lesson 3: Files
         - Altering a [Bitmap to understand file formats](https://docs.google.com/document/d/1l6cYOHgc4svrhHIA_bq6oGIQXa7OGLsPTTuATS6NgbE/edit?usp=sharing)
-        - Using a [terminal scavenger hunt to understand the file system](https://github.com/holycrap872/hp-learn-shell)
+        - Using a [terminal scavenger hunt to understand the file system](https://github.com/holycrap872/ucls-hp-learn-shell)
 
 #### Pending
 

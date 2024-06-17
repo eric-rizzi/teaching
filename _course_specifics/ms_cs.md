@@ -112,16 +112,16 @@ Abstraction, Power, Knowledge, Magic, Technology
 
 #### Years Taught
 
-2023 - 2024
+- [2023 - 2024](https://github.com/holycrap872/ucls-ms-intro-to-cs/tree/2023-2024)
 
 #### Main Links
 
-- [Main Repository](https://github.com/holycrap872/MSIntroToCS)
-- [Course Documents](https://github.com/holycrap872/MSIntroToCS/tree/mainline/CourseDocuments)
-- [Course Curriculum](https://github.com/holycrap872/MSIntroToCS/tree/mainline/CourseMaterials)
+- [Main Repository](https://github.com/holycrap872/ucls-ms-intro-to-cs)
+- [Administrative Documents](https://github.com/holycrap872/ucls-ms-intro-to-cs/tree/mainline/Administration)
+- [Course Curriculum](https://github.com/holycrap872/ucls-ms-intro-to-cs/tree/mainline/CourseMaterials)
 - [Slides](https://docs.google.com/presentation/d/1_haSfJvCY0OA6x6Ym1PqG1iJuH38eZB0TawBFXFAJXg/edit?usp=sharing)
 
 #### Links to Other Resources
 
-- [HP Scavenger Hunt Source](https://github.com/holycrap872/hp-learn-shell)
+- [HP Scavenger Hunt Source](https://github.com/holycrap872/ucls-hp-learn-shell)
 - [HP Scavenger Hunt Docker Image](https://hub.docker.com/repository/docker/erizzi/hp_terminal_tutorial/general)

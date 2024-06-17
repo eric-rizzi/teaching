@@ -34,17 +34,17 @@ students should learn to interact with.
 
 #### Years Taught
 
-2023 - 2024
+- [2023 - 2024](https://github.com/holycrap872/ucls-ml-ai/tree/2023-2024)
 
 #### Main Links
 
-- [Main Repository](https://github.com/holycrap872/ML-AI)
-- [Course Documents](https://github.com/holycrap872/ML-AI/tree/mainline/CourseDocuments)
-- [Course Curriculum](https://github.com/holycrap872/ML-AI/tree/mainline/CourseMaterial)
+- [Main Repository](https://github.com/holycrap872/ucls-ml-ai)
+- [Administrative Documents](https://github.com/holycrap872/ucls-ml-ai/tree/mainline/Administration)
+- [Course Curriculum](https://github.com/holycrap872/ucls-ml-ai/tree/mainline/CourseMaterial)
 
 #### Links to Other Resources
 
 - [Problem Set Skeleton](https://gitlab.com/eric.rizzi/problem-set-skeleton)
     - CI/CD enabled
-- [Hacker Functions](https://github.com/holycrap872/hacker-functions)
+- [Hacker Functions](https://github.com/holycrap872/ucls-hacker-functions)
     - Demonstrates importance of testing via subtle bugs
