@@ -39,37 +39,53 @@ Data, Binary, Hexadecimal, RGB, Encoding, Decoding, Number Systems, ASCII
 
 #### Introduction to Python
 
-![Python Emojis]({{ site.baseurl }}/assets/python_emojis.png)
+![Grok Academy]({{ site.baseurl }}/assets/grok.png)
 
 The Introduction to Python unit is taught using the [Grok Learning](https://groklearning.com)
 system as its foundation. On top of Grok, we supplement the material with
-various PRIMM based activities. These include old classics like having students
-create MadLibs (strings), Personality Quizzes (variables), and Turtles (loops)
-to our own ideas such as teaching Prisoners Dilemma (lists) and EmojiPics
-(loops).
+various PRIMM-based activities. These include old classics like having students
+create MadLibs (strings), Personality Quizzes (variables), and Turtles (loops).
+It also includes a several new activities such as a Connections-esque game. The
+focus of these supplementary activities is to give students an ability to show
+their creativity in what could otherwise be a bit of a rote, boring sequence.
 
 In the end, students are able to effectively read, write, and modify code to
 solve particular problems.
 
 ##### Keywords
 
-Programming, PRIMM, Python, Lists, Variables, Loops, Turtles, EmojiPics
+Programming, PRIMM, Grok, Python, Conditional, Variables, Loops, Turtles, EmojiPics
 
-#### Intermediate Python
+#### Programming in Practice
 
-![Fractal Tree]({{ site.baseurl }}/assets/forest.jpg)
+![Python Emojis]({{ site.baseurl }}/assets/python_emojis.png)
 
-Given the basic understanding of Python that students got in the previous unit,
-this set of classes is designed to give students a rigorous look into how
-computers actually work and how they can be used to model real world phenomena.
-In particular, there is a large emphasis on the power of functions illustrated
-through fractals and recursion. In addition, students come to understand the
-file system better by creating their own favicon via a hex editor and beginning
-to use `vscode`.
+This second unit on Python teaches students about ways to generalize programs
+and exploit patterns to reduce the amount of code that needs to be written.
+In particular, we start to move away from Grok (since I don't really like their
+more advanced units) and tackle a bunch of different problems from a wide-array
+of disciplines. This includes having students create a Prisoner's Dilemma "bot"
+to fight in a class-wide tournament.
 
 ##### Keywords
 
-Programming, PRIMM, Python, File System, Fractals, Recursion
+Programming, PRIMM, Python, Lists, Functions, EmojiPics, Prisoners Dilemma, 
+
+#### Fractals and Recursion
+
+![Fractal Tree]({{ site.baseurl }}/assets/forest.jpg)
+
+Given the basic understanding of Python that students got in the previous units,
+this set of classes is designed to expose students to recursion. The purpose of
+the unit is to allow them to experiment with different ways to decompose
+problems and wrestle with the fact that there are many ways to write a correct
+program. In addition, this dive into recursion reinforces previously learned
+concepts such as functions, and shows students how computers can be used to
+model real world phenomena.
+
+##### Keywords
+
+Programming, PRIMM, Python, Functions, Call Stacks, `vscode`, Fractals, Recursion
 
 #### Image Manipulation via Python
 
@@ -87,10 +103,6 @@ the wide variety of skill sets seen in a gen-ed class with a large number of
 
 Programming, Python, Pixels, RGB, Photo Editing, PhotoShop
 
-#### Data Storage and Transmission
-
-TBD
-
 #### Years Taught
 
 - [2023 - 2024](https://github.com/holycrap872/ucls-hs-intro-to-cs/tree/2023-2024)
@@ -100,7 +112,7 @@ TBD
 - [Main Repository](https://github.com/holycrap872/ucls-hs-intro-to-cs)
 - [Administrative Documents](https://github.com/holycrap872/ucls-hs-intro-to-cs/tree/mainline/Administration)
 - [Course Curriculum](https://github.com/holycrap872/ucls-hs-intro-to-cs/tree/mainline/CourseMaterial)
-- [Slides]() - PENDING
+- [Slides](https://docs.google.com/presentation/d/1BlgR62bWkhkZkQg283T4lotzLvyHJ94Q5AvN-6TAHrI)
 
 #### Links to Other Resources
 

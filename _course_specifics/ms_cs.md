@@ -119,7 +119,7 @@ Abstraction, Power, Knowledge, Magic, Technology
 - [Main Repository](https://github.com/holycrap872/ucls-ms-intro-to-cs)
 - [Administrative Documents](https://github.com/holycrap872/ucls-ms-intro-to-cs/tree/mainline/Administration)
 - [Course Curriculum](https://github.com/holycrap872/ucls-ms-intro-to-cs/tree/mainline/CourseMaterials)
-- [Slides](https://docs.google.com/presentation/d/1_haSfJvCY0OA6x6Ym1PqG1iJuH38eZB0TawBFXFAJXg/edit?usp=sharing)
+- [Slides](https://docs.google.com/presentation/d/1_haSfJvCY0OA6x6Ym1PqG1iJuH38eZB0TawBFXFAJXg)
 
 #### Links to Other Resources
 
