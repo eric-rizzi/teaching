@@ -113,6 +113,7 @@ Abstraction, Power, Knowledge, Magic, Technology
 #### Years Taught
 
 - [2023 - 2024](https://github.com/holycrap872/ucls-ms-intro-to-cs/tree/2023-2024)
+- [2024 - 2025](https://github.com/holycrap872/ucls-ms-intro-to-cs)
 
 #### Main Links
 

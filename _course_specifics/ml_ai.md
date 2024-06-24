@@ -35,6 +35,7 @@ students should learn to interact with.
 #### Years Taught
 
 - [2023 - 2024](https://github.com/holycrap872/ucls-ml-ai/tree/2023-2024)
+- [2024 - 2025](https://github.com/holycrap872/ucls-ml-ai/tree/2023-2024)
 
 #### Main Links
 

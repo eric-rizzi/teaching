@@ -39,7 +39,7 @@ Data, Binary, Hexadecimal, RGB, Encoding, Decoding, Number Systems, ASCII
 
 #### Introduction to Python
 
-![Grok Academy]({{ site.baseurl }}/assets/grok.png)
+![Grok Academy]({{ site.baseurl }}/assets/grok.jpg)
 
 The Introduction to Python unit is taught using the [Grok Learning](https://groklearning.com)
 system as its foundation. On top of Grok, we supplement the material with
@@ -81,7 +81,7 @@ the unit is to allow them to experiment with different ways to decompose
 problems and wrestle with the fact that there are many ways to write a correct
 program. In addition, this dive into recursion reinforces previously learned
 concepts such as functions, and shows students how computers can be used to
-model real world phenomena.
+model real-world phenomena.
 
 ##### Keywords
 
@@ -106,6 +106,7 @@ Programming, Python, Pixels, RGB, Photo Editing, PhotoShop
 #### Years Taught
 
 - [2023 - 2024](https://github.com/holycrap872/ucls-hs-intro-to-cs/tree/2023-2024)
+- [2024 - 2025](https://github.com/holycrap872/ucls-hs-intro-to-cs)
 
 #### Main Links
 
