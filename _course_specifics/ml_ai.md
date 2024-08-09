@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Machine Learning / Artificial Intelligence"
-date: 2024-01-04
+date: 2024-08-09
 categories:
     - Curriculum
     - High School

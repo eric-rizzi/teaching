@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "High School Introduction to Computer Science"
-date: 2024-04-23
+date: 2024-08-09
 categories:
     - Curriculum
     - High School
