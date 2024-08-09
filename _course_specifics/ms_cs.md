@@ -13,7 +13,7 @@ categories:
 ### Course Highlights
 
 The Middle School course emphasizes creativity, drawing, movement (when
-possible), and sharing of students work in the class. Units include:
+possible), and sharing of students work in the class.
 
 #### Years Taught
 

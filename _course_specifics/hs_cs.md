@@ -33,7 +33,7 @@ a base level of understanding of important topics in Computer Science.
 
 Units include:
 
-#### Digital Representation
+#### Unit 0: Digital Representation
 
 ![Binary Crossword Puzzle]({{ site.baseurl }}/assets/binary_crossword.png)
 
@@ -60,7 +60,7 @@ Data, Binary, Hexadecimal, RGB, Encoding, Decoding, Number Systems, ASCII
 - [Emoji Worksheet](https://docs.google.com/document/d/10esTMQ7dVPqxuLoiB1pYsntUwUWHYAAu8rS1RyC4kWs)
 - [Turtles to teach functions](https://docs.google.com/document/d/1nuLRRCuIOU1Zo1gXZ4k0tzFMrFzH-8KSoizjojTbjrs/edit?usp=sharing)
 
-#### Introduction to Python
+#### Unit 1: Introduction to Python
 
 ![Grok Academy]({{ site.baseurl }}/assets/grok.jpg)
 
@@ -87,7 +87,7 @@ Programming, PRIMM, Grok, Python, Conditional, Variables, Loops, Turtles, EmojiP
 - [Personality quizzes to react to user input]() - PENDING
 - [Turtles to teach loops](https://docs.google.com/document/d/1M3QkPWw4FBevTRVVvPYrpMLnrxy3whFOzJG3GN-qLyo)
 
-#### Fractals and Recursion
+#### Unit 2: Fractals and Recursion
 
 ![Fractal Tree]({{ site.baseurl }}/assets/forest.jpg)
 
@@ -110,7 +110,7 @@ Programming, PRIMM, Python, Functions, Call Stacks, Fractals, Recursion
 - [Robozzle Worksheet](https://docs.google.com/document/d/1QiQHOOVJecKwnOi_IGNrIDqSbMQhL2UCoL90OGBYXFg)
 - [Turtles to teach recursion](https://docs.google.com/document/d/1KZZBXd41aoYjR4rYAPWKPmsHDFJMrjmcIhX95dQPDW0)
 
-#### Programming in Practice
+#### Unit 3: Programming in Practice
 
 ![Python Emojis]({{ site.baseurl }}/assets/python_emojis.png)
 
@@ -133,7 +133,7 @@ Programming, PRIMM, Python, Lists, Functions, EmojiPics, Prisoners Dilemma, `vsc
 - [Turbozzle to teach vscode](https://docs.google.com/document/d/1fekLawCFuocIC7UNs41wR1hAvdX_QMzMMIOz599dnUU)
 - [A problem set to review for the unit test](https://docs.google.com/document/d/14GKx1AaB0O0fBH9AcmVAaJzPGk21_oIWB6BlDdjIhCY)
 
-#### Image Manipulation via Python
+#### Unit 4: Image Manipulation via Python
 
 ![Green Screen Bear]({{ site.baseurl }}/assets/bear_green.jpg)
 
