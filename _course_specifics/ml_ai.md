@@ -24,14 +24,6 @@ to take more and more use of ChatBots to help them produce code more quickly.
 The theory is that ChatBots provide a new, higher abstraction level that
 students should learn to interact with.
 
-#### Manufactoria and Finite State Machines
-
-#### Guess Who Decision Trees
-
-#### Bayesian Black Jack
-
-#### Teaching Humans and Machines
-
 #### Years Taught
 
 - [2023 - 2024](https://github.com/holycrap872/ucls-ml-ai/tree/2023-2024)
@@ -42,8 +34,21 @@ students should learn to interact with.
 - [Main Repository](https://github.com/holycrap872/ucls-ml-ai)
 - [Administrative Documents](https://github.com/holycrap872/ucls-ml-ai/tree/mainline/Administration)
 - [Course Curriculum](https://github.com/holycrap872/ucls-ml-ai/tree/mainline/CourseMaterial)
+- [Slides]()
 
-#### Links to Other Resources
+### Course Units
+
+Units include:
+
+#### Manufactoria and Finite State Machines
+
+#### Guess Who Decision Trees
+
+#### Bayesian Black Jack
+
+#### Teaching Humans and Machines
+
+### Links to Other Resources
 
 - [Problem Set Skeleton](https://gitlab.com/eric.rizzi/problem-set-skeleton)
     - CI/CD enabled

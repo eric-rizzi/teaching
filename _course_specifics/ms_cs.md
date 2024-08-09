@@ -15,6 +15,22 @@ categories:
 The Middle School course emphasizes creativity, drawing, movement (when
 possible), and sharing of students work in the class. Units include:
 
+#### Years Taught
+
+- [2023 - 2024](https://github.com/holycrap872/ucls-ms-intro-to-cs/tree/2023-2024)
+- [2024 - 2025](https://github.com/holycrap872/ucls-ms-intro-to-cs)
+
+#### Main Links
+
+- [Main Repository](https://github.com/holycrap872/ucls-ms-intro-to-cs)
+- [Administrative Documents](https://github.com/holycrap872/ucls-ms-intro-to-cs/tree/mainline/Administration)
+- [Course Curriculum](https://github.com/holycrap872/ucls-ms-intro-to-cs/tree/mainline/CourseMaterials)
+- [Slides](https://docs.google.com/presentation/d/1_haSfJvCY0OA6x6Ym1PqG1iJuH38eZB0TawBFXFAJXg)
+
+### Course Units
+
+Units include:
+
 #### Scratch Game Progression
 
 ![Scratch Games]({{ site.baseurl }}/assets/race_car.jpg)
@@ -110,19 +126,7 @@ consumers.
 
 Abstraction, Power, Knowledge, Magic, Technology
 
-#### Years Taught
-
-- [2023 - 2024](https://github.com/holycrap872/ucls-ms-intro-to-cs/tree/2023-2024)
-- [2024 - 2025](https://github.com/holycrap872/ucls-ms-intro-to-cs)
-
-#### Main Links
-
-- [Main Repository](https://github.com/holycrap872/ucls-ms-intro-to-cs)
-- [Administrative Documents](https://github.com/holycrap872/ucls-ms-intro-to-cs/tree/mainline/Administration)
-- [Course Curriculum](https://github.com/holycrap872/ucls-ms-intro-to-cs/tree/mainline/CourseMaterials)
-- [Slides](https://docs.google.com/presentation/d/1_haSfJvCY0OA6x6Ym1PqG1iJuH38eZB0TawBFXFAJXg)
-
-#### Links to Other Resources
+### Links to Other Resources
 
 - [HP Scavenger Hunt Source](https://github.com/holycrap872/ucls-hp-learn-shell)
 - [HP Scavenger Hunt Docker Image](https://hub.docker.com/repository/docker/erizzi/hp_terminal_tutorial/general)
