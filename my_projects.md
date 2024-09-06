@@ -12,6 +12,14 @@ like, but it really can be anything.
 
 [Click here]({{ site.baseurl }}/my_projects/csv_to_stl_converter.html) for more information.
 
+# Search Space Exploration Game
+
+I created this small JavaScript game to illustrate how search space exploration
+works. It's basically a computer game-ified version of my "Search Space Battleship"
+lesson.
+
+[Click here]({{ site.baseurl }}/my_projects/landscape_search_game.html) for more information.
+
 # Robozzle
 
 Robozzle is a logic game originally in 2009 by Igor Ostrovsky. The
