@@ -82,8 +82,8 @@ Programming, PRIMM, Grok, Python, Conditional, Variables, Loops, Turtles, EmojiP
 ##### Resources
 
 - [Slides](https://docs.google.com/presentation/d/1cRtUOt-Q6cIK2JgTmWrYXtshWAFtZHKgS5iJ1E72Dlw)
-- [MadLibs to teach string operations](https://docs.google.com/document/d/1-AwvVtv59yDz-mvorbLMAJdnjadjgOmC5QAquUhNyp0/edit?usp=sharing)
-- [Connections like game to teach conditionals](https://docs.google.com/document/d/1LOTwfDylpD5fnUC1dwykx5nrTQwpntYi2X0pwWtR2Jw/edit?usp=sharing)
+- [MadLibs to teach string operations](https://docs.google.com/document/d/1-AwvVtv59yDz-mvorbLMAJdnjadjgOmC5QAquUhNyp0)
+- [Connections like game to teach conditionals](https://docs.google.com/document/d/1LOTwfDylpD5fnUC1dwykx5nrTQwpntYi2X0pwWtR2Jw)
 - [Personality quizzes to react to user input]() - PENDING
 - [Turtles to teach loops](https://docs.google.com/document/d/1M3QkPWw4FBevTRVVvPYrpMLnrxy3whFOzJG3GN-qLyo)
 
