@@ -42,9 +42,11 @@ go approach.
 
 Units include:
 
-#### Unit 0: Onboarding
+#### Unit 0: Foundations of Intelligence
 
 ##### Keywords
+
+Search Space, Turing Test, ChatBots, Learning, Python
 
 ##### Resources
 
@@ -53,6 +55,8 @@ Units include:
 #### Unit 1: Introduction to Data Science
 
 ##### Keywords
+
+MatPlotLib, Graphing, Randomness, Parsing, Python
 
 ##### Resources
 
@@ -63,6 +67,8 @@ Units include:
 
 ##### Keywords
 
+Types, Terminal, Git, Markdown, CI/CD, Testing
+
 ##### Resources
 
 - [Slides](https://docs.google.com/presentation/d/1rlnRn7dnPDq54ig-f2ZiRVZURiEUtDI9jY1sLQjMj7M)
@@ -72,6 +78,8 @@ Units include:
 
 ##### Keywords
 
+Data Structures, JSON, Finite State Machines, Debugging, Markov Chains
+
 ##### Resources
 
 - [Slides](https://docs.google.com/presentation/d/1GtabBNSjaoEHF5L5NOkuel0Q0qboPFuKXzkHOjKT6yA)
@@ -79,6 +87,8 @@ Units include:
 #### Unit 4: Learning Machines
 
 ##### Keywords
+
+Learning Types, Classifiers, Teaching Methods, Abstraction, Epistemology
 
 ##### Resources
 
@@ -88,6 +98,8 @@ Units include:
 
 ##### Keywords
 
+Bayes Theorem, Named Tuples, Blackjack
+
 ##### Resources
 
 - [Slides](https://docs.google.com/presentation/d/1t7dBUWiRDFQTU1SSowFp9VCaSElgotzSNtxaf8vXd5g)
@@ -95,6 +107,8 @@ Units include:
 #### Unit 6: AI in Society
 
 ##### Keywords
+
+P-Doom, Utopia, Emotions, AI Safety, Ethics
 
 ##### Resources
 
@@ -108,6 +122,8 @@ Units include:
 
 ##### Keywords
 
+Fitness, Selection, Variability, Heritability, Emergence
+
 ##### Resources
 
 - [Slides]()
@@ -115,6 +131,8 @@ Units include:
 #### Unit 8: Cognition and Computing
 
 ##### Keywords
+
+Metaphors, Virtual Machines, Perception, Reality, Rationalism
 
 ##### Resources
 
@@ -124,6 +142,8 @@ Units include:
 
 ##### Keywords
 
+Neurons, TensorFlow, Contextualism, Structuralism
+
 ##### Resources
 
 - [Slides]()
@@ -131,6 +151,8 @@ Units include:
 #### Unit 10: App Development
 
 ##### Keywords
+
+ChatBots, Git, Agile, Python, Independent Study
 
 ##### Resources
 
