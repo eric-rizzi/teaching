@@ -44,6 +44,15 @@ Units include:
 
 #### Unit 0: Foundations of Intelligence
 
+![Search Space Battleship]({{ site.baseurl }}/assets/search_space_battleship.jpg)
+
+In this unit, we explore the technical and philosophical roots of AI. We first
+talk about how most problems can be thought of as a form of search. Then we
+talk about (and demonstrate) the original Turing Test and what it's strengths/
+weaknesses are. After this, students do a quick "skills assessment". On the last
+day of the assessment, they are encouraged to use a ChatBot to aid them. This
+leads to a final discussion about the role of ChatBots for learners.
+
 ##### Keywords
 
 Search Space, Turing Test, ChatBots, Learning, Python
@@ -51,6 +60,7 @@ Search Space, Turing Test, ChatBots, Learning, Python
 ##### Resources
 
 - [Slides](https://docs.google.com/presentation/d/1bUrXyD7xr25gqngLw1tMPPwIsJldUXVKdybuE58Ee-o)
+- [Problem Set Skeleton](https://gitlab.com/eric.rizzi/problem-set-skeleton)
 
 #### Unit 1: Introduction to Data Science
 
@@ -61,7 +71,6 @@ MatPlotLib, Graphing, Randomness, Parsing, Python
 ##### Resources
 
 - [Slides](https://docs.google.com/presentation/d/1-_J7SscxvexRtwTF_6ETjWs9mbamOPVeRQC-MHccIn0)
-- [Problem Set Skeleton](https://gitlab.com/eric.rizzi/problem-set-skeleton)
 
 #### Unit 2: SDE Bootcamp
 
