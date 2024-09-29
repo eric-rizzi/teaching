@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Machine Learning / Artificial Intelligence"
-date: 2024-08-09
+date: 2024-09-29
 categories:
     - Curriculum
     - High School
@@ -62,17 +62,7 @@ Search Space, Turing Test, ChatBots, Learning, Python
 - [Slides](https://docs.google.com/presentation/d/1bUrXyD7xr25gqngLw1tMPPwIsJldUXVKdybuE58Ee-o)
 - [Problem Set Skeleton](https://gitlab.com/eric.rizzi/problem-set-skeleton)
 
-#### Unit 1: Introduction to Data Science
-
-##### Keywords
-
-MatPlotLib, Graphing, Randomness, Parsing, Python
-
-##### Resources
-
-- [Slides](https://docs.google.com/presentation/d/1-_J7SscxvexRtwTF_6ETjWs9mbamOPVeRQC-MHccIn0)
-
-#### Unit 2: SDE Bootcamp
+#### Unit 1: SDE Bootcamp
 
 ##### Keywords
 
@@ -82,6 +72,17 @@ Types, Terminal, Git, Markdown, CI/CD, Testing
 
 - [Slides](https://docs.google.com/presentation/d/1rlnRn7dnPDq54ig-f2ZiRVZURiEUtDI9jY1sLQjMj7M)
 - [Hacker Functions](https://github.com/holycrap872/ucls-hacker-functions)
+
+#### Unit 2: Introduction to Data Science
+
+##### Keywords
+
+MatPlotLib, Graphing, Randomness, Parsing, Python
+
+##### Resources
+
+- [Slides](https://docs.google.com/presentation/d/1-_J7SscxvexRtwTF_6ETjWs9mbamOPVeRQC-MHccIn0)
+
 
 #### Unit 3: Lists, Sets, and Maps
 
