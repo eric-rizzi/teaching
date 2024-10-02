@@ -64,6 +64,14 @@ Search Space, Turing Test, ChatBots, Learning, Python
 
 #### Unit 1: SDE Bootcamp
 
+In this unit, students are exposed to the core technologies that enforce good
+engineering practices. They learn to use the terminal, git, and deploy projects
+that utilize CI/CD. The point of this is not to turn them into experts, but to
+expose them to the power of these tools that, should they choose, will allow
+them to scale their knowledge in future classes. Throughtout the rest of the
+year, they will be returning to these tools again and again, reinforcing their
+understanding.
+
 ##### Keywords
 
 Types, Terminal, Git, Markdown, CI/CD, Testing
