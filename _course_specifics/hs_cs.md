@@ -57,8 +57,8 @@ Data, Binary, Hexadecimal, RGB, Encoding, Decoding, Number Systems, ASCII
 - [Number Systems Worksheet](https://docs.google.com/document/d/1esNFXNXknUZ8u6ecfAX23CCBElGLJUJnZ275CTJN3lY)
 - [Hexadecimal Worksheet](https://docs.google.com/document/d/1W78ZKpljpYbSOuBPiIZ7HeDdjppLFt70yxR65a2MYX4)
 - [ASCII Scavenger Hunt](https://docs.google.com/spreadsheets/d/1-6gDOtzs0r-PXiVjRgclm6DzgXySXCEntQzXS9CB3tU)
+- [Hex Fiend Worksheet](https://docs.google.com/document/d/1QBQFZy7oRVLWU8Fvbh-ymdTY-KpSJ-f1M6pmo1ItcpA)
 - [Emoji Worksheet](https://docs.google.com/document/d/10esTMQ7dVPqxuLoiB1pYsntUwUWHYAAu8rS1RyC4kWs)
-- [Turtles to teach functions](https://docs.google.com/document/d/1nuLRRCuIOU1Zo1gXZ4k0tzFMrFzH-8KSoizjojTbjrs/edit?usp=sharing)
 
 #### Unit 1: Introduction to Python
 

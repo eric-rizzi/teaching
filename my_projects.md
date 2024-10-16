@@ -8,7 +8,8 @@ title: "My Projects"
 I worked with the science department (physics) to allow them to 3D print data
 that students gathered during various experiments. It initially came about as a
 way to show students what measurements of magnetism on a electrified plate looks
-like, but it really can be anything.
+like, but you could really print any data that has three dimensions (x, y, and
+some third "height" value).
 
 [Click here]({{ site.baseurl }}/my_projects/csv_to_stl_converter.html) for more information.
 
@@ -26,17 +27,17 @@ Robozzle is a logic game originally in 2009 by Igor Ostrovsky. The
 [original game](http://www.robozzle.com/beta/) lets you program a "robot"
 through a bunch of levels using recursion and loops. It does a great job
 helping students visualize how functions work. Unfortunately, Robozzle was
-starting to show its age. That's when I found [this fully client-side version](https://alexanderson1993.github.io/robozzle-react/)
+starting to show its age. That's when I found a fully client-side version
 of the game. I have helped update it a bit a put it in better shape for teaching.
 
 [Click Here](https://github.com/alexanderson1993/robozzle-react) for more information.
 
 # PythoShop
 
-The UCLS CS department has an amazing project that where students create their
+The UCLS CS department has an amazing project that allows students to create their
 own photo-editing software (similiar to PhotoShop). It does a great job teaching
 students about loops, functions, colors, and files. Since arriving at UCLS, I
-have helped Dan and Marty on the project in varous ways.
+have helped the other intro teachers on the project in varous ways.
 
 [Click here]({{ site.baseurl }}/my_projects/pythoshop.html) for more information.
 

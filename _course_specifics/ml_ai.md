@@ -83,6 +83,14 @@ Types, Terminal, Git, Markdown, CI/CD, Testing
 
 #### Unit 2: Introduction to Data Science
 
+In this unit, students really get to programming. In particular, they learn to
+use Python to represent different types of data visually via the matplotlib
+library. In the process, students use the Monte Carlo method to find the area
+of a circle experimentally, see how difficult it is to create a truly random
+series of numbers, and examine old texts to see how language has changed through
+the decades. In the process, students learn how good data can lead to interesing
+conclusions while bad data can lead them astray.
+
 ##### Keywords
 
 MatPlotLib, Graphing, Randomness, Parsing, Python
