@@ -61,6 +61,7 @@ Search Space, Turing Test, ChatBots, Learning, Python
 
 - [Slides](https://docs.google.com/presentation/d/1bUrXyD7xr25gqngLw1tMPPwIsJldUXVKdybuE58Ee-o)
 - [Problem Set Skeleton](https://gitlab.com/eric.rizzi/problem-set-skeleton)
+- [Skills Assessment Worksheet](https://docs.google.com/document/d/1qt4WpGlUJX_-c_pszl-Al2Y12nbc3wcpDWMTOKnE-hw)
 
 #### Unit 1: SDE Bootcamp
 
@@ -79,6 +80,7 @@ Types, Terminal, Git, Markdown, CI/CD, Testing
 ##### Resources
 
 - [Slides](https://docs.google.com/presentation/d/1rlnRn7dnPDq54ig-f2ZiRVZURiEUtDI9jY1sLQjMj7M)
+- [Human vs. AI Worksheet](https://docs.google.com/document/d/1qQCPRWvj5NFtIXzdm8vN-o78t5ZvF_vRA85PAyezRaI)
 - [Hacker Functions](https://github.com/holycrap872/ucls-hacker-functions)
 
 #### Unit 2: Introduction to Data Science
@@ -98,7 +100,8 @@ MatPlotLib, Graphing, Randomness, Parsing, Python
 ##### Resources
 
 - [Slides](https://docs.google.com/presentation/d/1-_J7SscxvexRtwTF_6ETjWs9mbamOPVeRQC-MHccIn0)
-
+- [Funny Graphs Worksheet](https://docs.google.com/document/d/1obfWo5Phspuw9k_YHaiCtrZJnYGjbZFDaL3R8Z7DMrk)
+- [Monte Carlo Method Worksheet](https://docs.google.com/document/d/11h5Xa6s6rMgayko8BXp4bPpxtYDhpC_-As9ktSmdI5g)
 
 #### Unit 3: Lists, Sets, and Maps
 
