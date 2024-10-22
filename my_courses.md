@@ -24,8 +24,21 @@ general problem solving.
 
 # Machine Learning/Artificial Intelligence
 
-The purpose of the course is to simultaneously teach students the equivalent of
+The purpose of this course is to simultaneously teach students the equivalent of
 an "advanced python" course and introduce them to various state of the art
-techniques in AI/ML.
+techniques in ML/AI.
 
 [Click here]({{ site.baseurl }}/course_specifics/ml_ai.html) for more information.
+
+
+# Machine Learning/Artificial Intelligence
+
+The purpose of this course is to provide a track for advanced students in
+**either** the HS Intro to CS course OR the ML/AI course a track that will
+challenge them without interferring/colliding with anything else they might be
+learning. The course goes from the creation of simple Python based games all the
+way up to the deployment of a modern JavaScript App with calls to an AWS hosted
+back-end. It relies heavily on the use of ChatBots to allow the student to make
+independent progress.
+
+[Click here]({{ site.baseurl }}/course_specifics/independent_study.html) for more information.
