@@ -105,9 +105,17 @@ MatPlotLib, Graphing, Randomness, Parsing, Python
 
 #### Unit 3: Lists, Sets, and Maps
 
+In this unit, students learn about the power of Python's built-in data
+structures. In particular, they learn about the properties that the core data
+structures share and what makes them unique. From this foundation, students
+start to visualize different ways to link and traverse data. In particular,
+they come to understand how to build graphs and use them to represent FSMs and
+Markov Chains. The end result is the creation of a simplistic ChatBot that
+highlights how data and program combine to create an interesting result.
+
 ##### Keywords
 
-Data Structures, JSON, Finite State Machines, Debugging, Markov Chains
+Data Structures, JSON, Manufactoria, Finite State Machines, Markov Chains
 
 ##### Resources
 
