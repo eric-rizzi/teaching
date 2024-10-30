@@ -35,9 +35,9 @@ of the game. I have helped update it a bit a put it in better shape for teaching
 # PythoShop
 
 The UCLS CS department has an amazing project that allows students to create their
-own photo-editing software (similiar to PhotoShop). It does a great job teaching
+own photo-editing software (similar to PhotoShop). It does a great job teaching
 students about loops, functions, colors, and files. Since arriving at UCLS, I
-have helped the other intro teachers on the project in varous ways.
+have helped the other intro teachers on the project in various ways.
 
 [Click here]({{ site.baseurl }}/my_projects/pythoshop.html) for more information.
 

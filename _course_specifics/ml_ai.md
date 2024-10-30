@@ -69,7 +69,7 @@ In this unit, students are exposed to the core technologies that enforce good
 engineering practices. They learn to use the terminal, git, and deploy projects
 that utilize CI/CD. The point of this is not to turn them into experts, but to
 expose them to the power of these tools that, should they choose, will allow
-them to scale their knowledge in future classes. Throughtout the rest of the
+them to scale their knowledge in future classes. Throughout the rest of the
 year, they will be returning to these tools again and again, reinforcing their
 understanding.
 
@@ -90,7 +90,7 @@ use Python to represent different types of data visually via the matplotlib
 library. In the process, students use the Monte Carlo method to find the area
 of a circle experimentally, see how difficult it is to create a truly random
 series of numbers, and examine old texts to see how language has changed through
-the decades. In the process, students learn how good data can lead to interesing
+the decades. In the process, students learn how good data can lead to interesting
 conclusions while bad data can lead them astray.
 
 ##### Keywords

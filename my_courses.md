@@ -35,7 +35,7 @@ techniques in ML/AI.
 
 The purpose of this course is to provide a track for advanced students in
 **either** the HS Intro to CS course **OR** the ML/AI course that will challenge
-them without interferring/colliding with anything else they might be learning.
+them without interfering/colliding with anything else they might be learning.
 The course goes from the creation of simple Python based games all the way up to
 the deployment of a modern JavaScript App with calls to an AWS hosted back-end.
 It relies heavily on the use of ChatBots to allow the student to make
