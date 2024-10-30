@@ -33,7 +33,7 @@ Units include:
 
 #### Scratch Game Progression
 
-![Scratch Games]({{ site.baseurl }}/assets/race_car.jpg)
+![Scratch Games]({{ site.baseurl }}/assets/ms_cs/race_car.jpg)
 
 Students begin the course by creating a series of five video games of increasing
 complexity. Each game is easily understandable, fun to play, can be completed
@@ -47,7 +47,7 @@ Conditionals, Gameloop, Loops, Games, Self-Directed, Pair Programming
 
 #### Abstraction in All Forms
 
-![Computers at varying levels of abstraction]({{ site.baseurl }}/assets/abstract_computers.jpg)
+![Computers at varying levels of abstraction]({{ site.baseurl }}/assets/ms_cs/abstract_computers.jpg)
 
 This unit is a four-class progression on abstraction where students are asked to
 analyze abstraction from a variety of different angles. This includes drawing
@@ -76,7 +76,7 @@ Information, Binary, Encoding, Decoding, Representation
 
 #### Harry Potter Themed Terminal Scavenger Hunt
 
-![Harry Potter Learning Terminal]({{ site.baseurl }}/assets/hp_terminal.jpg)
+![Harry Potter Learning Terminal]({{ site.baseurl }}/assets/ms_cs/hp_terminal.jpg)
 
 This unit teaches students the bare essentials of terminal. In the process, they
 are required to remember information they previously learned in the class and

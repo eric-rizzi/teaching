@@ -35,7 +35,7 @@ Units include:
 
 #### Unit 0: Digital Representation
 
-![Binary Crossword Puzzle]({{ site.baseurl }}/assets/binary_crossword.png)
+![Binary Crossword Puzzle]({{ site.baseurl }}/assets/hs_cs/binary_crossword.png)
 
 The course begins with a unit exploring how different types of data are
 represented on a computer. Students come to understand that computers simply
@@ -62,7 +62,7 @@ Data, Binary, Hexadecimal, RGB, Encoding, Decoding, Number Systems, ASCII
 
 #### Unit 1: Introduction to Python
 
-![Grok Academy]({{ site.baseurl }}/assets/grok.jpg)
+![Grok Academy]({{ site.baseurl }}/assets/hs_cs/grok.jpg)
 
 The Introduction to Python unit is taught using the [Grok Learning](https://groklearning.com)
 system as its foundation. On top of Grok, we supplement the material with
@@ -89,7 +89,7 @@ Programming, PRIMM, Grok, Python, Conditional, Variables, Loops, Turtles, EmojiP
 
 #### Unit 2: Fractals and Recursion
 
-![Fractal Tree]({{ site.baseurl }}/assets/forest.jpg)
+![Fractal Tree]({{ site.baseurl }}/assets/hs_cs/forest.jpg)
 
 Given the basic understanding of Python that students got in the previous units,
 this set of classes is designed to expose students to recursion. The purpose of
@@ -112,7 +112,7 @@ Programming, PRIMM, Python, Functions, Call Stacks, Fractals, Recursion
 
 #### Unit 3: Programming in Practice
 
-![Python Emojis]({{ site.baseurl }}/assets/python_emojis.png)
+![Python Emojis]({{ site.baseurl }}/assets/hs_cs/python_emojis.png)
 
 This third unit on programming teaches students about ways to generalize code
 and exploit patterns to reduce the amount of code that needs to be written.
@@ -135,7 +135,7 @@ Programming, PRIMM, Python, Lists, Functions, EmojiPics, Prisoners Dilemma, `vsc
 
 #### Unit 4: Image Manipulation via Python
 
-![Green Screen Bear]({{ site.baseurl }}/assets/bear_green.jpg)
+![Green Screen Bear]({{ site.baseurl }}/assets/hs_cs/bear_green.jpg)
 
 This final programming unit has students create bitmap transformations (e.g.,
 converting an image to black and white, combining two images) to give students

@@ -44,7 +44,7 @@ Units include:
 
 #### Unit 0: Foundations of Intelligence
 
-![Search Space Battleship]({{ site.baseurl }}/assets/search_space_battleship.jpg)
+![Search Space Battleship]({{ site.baseurl }}/assets/ml_ai/search_space_battleship.jpg)
 
 In this unit, we explore the technical and philosophical roots of AI. We first
 talk about how most problems can be thought of as a form of search. Then we

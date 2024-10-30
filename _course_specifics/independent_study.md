@@ -36,6 +36,8 @@ way up to the cutting edge.
 
 #### Unit 0: Intermediate Python
 
+![Fishy Game]({{ site.baseurl }}/assets/independent_study/fishy_game.png)
+
 This unit serves as the entry point for the course. It is designed to quickly
 get students up to speed in terms of what objects are and how they work. The
 goal is _just_ to get the proficient enough that they can understand code that
@@ -62,6 +64,8 @@ Python, Grok, Pygame, Objects, Functions, PRIMM, Fishy, Pong
 
 #### Unit 1: Command-Line
 
+![Terminal with a cow on it]({{ site.baseurl }}/assets/independent_study/cow_say.jpg)
+
 This unit provides students the basic tools on the command-line to be able to
 make/use the terminal in the units on `git` and `docker`. As with the previous
 unit, the goal here is to get students quickly up to speed in terms of using
@@ -78,6 +82,8 @@ Terminal, Shell, Linux, GameShell
 - [Over the Wire](https://overthewire.org/wargames/bandit/)
 
 #### Unit 2: Git
+
+![Git Network Graph]({{ site.baseurl }}/assets/independent_study/git_graph.jpg)
 
 This unit teaches students the basic concepts of git. The learn how to set up
 a local repository and create simple, single branch commits. In addition, they
@@ -97,6 +103,8 @@ Commits, GitLab, Conventional Comments, CI/CD
 
 #### Unit 3: Advanced Python
 
+![Advanced Python Types]({{ site.baseurl }}/assets/independent_study/one_liner.png)
+
 This is the final "background concepts" unit for students. It is intended to
 help them brush up on their Python and to understand the importance of types.
 I chose comprehensions and generics very specifically because most students
@@ -114,6 +122,8 @@ Generic Types, Comprehensions, Objects
 
 
 #### Unit 4: ChatBot Aid
+
+![ChatBot Answer to a Question]({{ site.baseurl }}/assets/independent_study/chatbot_answer.png)
 
 This is the first unit where students are specifically instructed to use a
 ChatBot to help create something that they might otherwise struggle to complete.
@@ -138,6 +148,8 @@ ChatBots, GitHub, HTML, JavaScript, APIs, Client-side App
 
 #### Unit 5: AWS Dev Part 1
 
+![AWS Lambda logo]({{ site.baseurl }}/assets/independent_study/aws_services.png)
+
 This unit has students start to create a (very simple) backend API for their
 website. It guides them through the creation of a simple lambda (compute),
 dynamodb table (memory), and s3 bucket (storage) that does some simple
@@ -161,6 +173,8 @@ Lambda, Regions, DynamoDB, S3, Permissions, boto3
 
 #### Unit 6: Docker
 
+![Docker Logo]({{ site.baseurl }}/assets/independent_study/docker.png)
+
 Docker is a fundamental technology of the modern web. Understanding how it
 works, even at a high level, helps students appreciate how code moves around
 the globe. In this unit, students learned to run, augment, and build Docker
@@ -181,6 +195,8 @@ Containers, DockerHub, Lambda, Environment, Program Hooks, Serverless, Harry Pot
 - [Serverless Docker Worksheet](https://docs.google.com/document/d/1uz90cVLRvoGtuCpYqWeNYBw4waXxQW4OEyGHA4HOmgU)
 
 #### Unit 7: AWS Dev Part 2
+
+![GitLab Pipeline]({{ site.baseurl }}/assets/independent_study/gitlab_pipeline.png)
 
 In the final part of the independent study, students learn to build and deploy
 their code using two pipeline: a source code pipeline and an infrastructure
