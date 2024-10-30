@@ -151,7 +151,7 @@ scaled on the internet.
 
 ##### Keywords
 
-Lambda, Regions, DynamoDB, S3, Permissions, Boto
+Lambda, Regions, DynamoDB, S3, Permissions, boto3
 
 ##### Resources
 
@@ -160,6 +160,16 @@ Lambda, Regions, DynamoDB, S3, Permissions, Boto
 - [S3 Intro Worksheet](https://docs.google.com/document/d/1WwM4kJjMKh41zh4sN1tGyI0cAWhffMAP7I7Ur8_s-hM)
 
 #### Unit 6: Docker
+
+Docker is a fundamental technology of the modern web. Understanding how it
+works, even at a high level, helps students appreciate how code moves around
+the globe. In this unit, students learned to run, augment, and build Docker
+containers. A particular highlight is that they get to look at the image I use
+for my middle schoolers the is a "Harry Potter Terminal Scavenger Hunt".
+
+In the end, students will have an appreciate for how code can be containerized
+and therefore understand how their code (in a Docker image) can interface with
+the services that AWS provides.
 
 ##### Keywords
 
@@ -170,7 +180,17 @@ Containers, DockerHub, Lambda, Environment, Program Hooks, Serverless, Harry Pot
 - [Docker Intro Worksheet](https://docs.google.com/document/d/1BXl2eWHTXz2hGJeljlIaKgKq84DUOPS7wvJAcuiL_p0)
 - [Serverless Docker Worksheet](https://docs.google.com/document/d/1uz90cVLRvoGtuCpYqWeNYBw4waXxQW4OEyGHA4HOmgU)
 
-#### Unit 7: AWS Dev Par 2
+#### Unit 7: AWS Dev Part 2
+
+In the final part of the independent study, students learn to build and deploy
+their code using two pipeline: a source code pipeline and an infrastructure
+pipeline. Once they are able to deploy, they learn and add a lot of software
+engineering best-practices such as a dashboard and integration tests.
+
+In the end, students are able to create a simple Lambda based service that
+stores information in both S3 and DynamoDB and can be called via the internet
+using API Gateway. As a final "cherry on top", they then replace the API call
+they made in their GitHub Pages website to a call to their own API.
 
 ##### Keywords
 
@@ -181,7 +201,7 @@ CI/CD, Dashboards, Integration Testing, Infrastructure vs. Code, CDK
 - [Infra as Code Worksheet](https://docs.google.com/document/d/1ZLFzG_-HqCs_UDjQs9KIOmp8zFPp5bSBtSDVgH_3e34)
 - [API Gateway Intro Worksheet](https://docs.google.com/document/d/1exAsqMfjrSYUT08oBmxrDCngnI5ldqXDq81y6yvncgQ)
 - [Src Deployment 1 Worksheet](https://docs.google.com/document/d/15mgQNYt54nPrwl8miEN0n_T1ZJqVGHRXdm3BB0animg)
-- [Src Deployment 2 Workhseet](https://docs.google.com/document/d/1-gtga6QumvTnGSImP2Noo9279mJ0FdsR8_D1jwYiU2s) - PENDING
+- [Src Deployment 2 Worksheet](https://docs.google.com/document/d/1-gtga6QumvTnGSImP2Noo9279mJ0FdsR8_D1jwYiU2s) - PENDING
 - [Dashboard Worksheet](https://docs.google.com/document/d/1XYs5yg7N-iALpGJISFtZOZ4GmgHvgZPV1EADaSWCjDg) - PENDING
 - [Integ Test Worksheet](https://docs.google.com/document/d/1R_LksGNqv2zxR_O1FiwlW-26vI7MWVc99F_Je2SV7ts) - PENDING
 - [AWS Infra Repository](https://gitlab.com/eric.rizzi/aws-infra-txu.git)
