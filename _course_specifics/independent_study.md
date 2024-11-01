@@ -39,15 +39,16 @@ way up to the cutting edge.
 ![Fishy Game]({{ site.baseurl }}/assets/independent_study/fishy_game.png)
 
 This unit serves as the entry point for the course. It is designed to quickly
-get students up to speed in terms of what objects are and how they work. The
-goal is _just_ to get the proficient enough that they can understand code that
-is being output by ChatBots. It is **not** intended to take the place of a real
-class on Objects.
+get students up to speed in terms of what objects/classes are and how they work.
+The goal is _just_ to get students proficient enough that they can understand
+code that is being output by ChatBots in future lessons. It is **not** intended
+to take the place of a real CS course on object oriented programming.
 
-In the unit, students will create versions of Pong and Fishy. There is very
-tight integration between the worksheets and the code that students are using.
-This is because they are using the PRIMM method where students modify existing
-code before attempting to create their own.
+In the unit, students will create their own versions of Pong and Fishy with the
+help of worksheets. There is very tight integration between the worksheets and
+the code that are using as their starting point. This is because they are using
+the PRIMM method where students modify existing code before attempting to create
+their own.
 
 ##### Keywords
 
@@ -59,18 +60,19 @@ Python, Grok, Pygame, Objects, Functions, PRIMM, Fishy, Pong
 - [Pong Worksheet](https://docs.google.com/document/d/1eW4la2fCusx_mdwDf4gEzEPu_daq-ZIVavT85ASw3pc)
 - [Object Basics Worksheet](https://docs.google.com/document/d/1rS0B1gvbGJEnMxNH8ZPs3ojfpMQOp3Cf3u1ARx2HDU0)
 - [Fishy Worksheet](https://docs.google.com/document/d/1gsYWeewpQPB9gjoGOE963jIxD110brmhtM3Qjbk9Ao8)
-- [Pong Repo]()
-- [Fishy Repo]()
+- [Pong Repo](https://github.com/holycrap872/ucls-partial-pong)
+- [Fishy Repo](https://github.com/holycrap872/ucls-fishy)
 
 #### Unit 1: Command-Line
 
 ![Terminal with a cow on it]({{ site.baseurl }}/assets/independent_study/cow_say.jpg)
 
-This unit provides students the basic tools on the command-line to be able to
-make/use the terminal in the units on `git` and `docker`. As with the previous
-unit, the goal here is to get students quickly up to speed in terms of using
-the terminal. It is expected that they will then be able to use the ChatBot to
-get the necessary commands to do future, more difficult tasks.
+This unit provides students with the basic skills on the command-line required
+to use the terminal in future units on `git` and `docker`. As with the previous
+unit, the goal here is **not** to make them experts in the terminal to the point
+where they can figure everything out by themselves. Instead, it is to get
+students quickly up to speed so that they can then use a ChatBot to help them
+discover the necessary commands for more difficult tasks.
 
 ##### Keywords
 
@@ -85,13 +87,14 @@ Terminal, Shell, Linux, GameShell
 
 ![Git Network Graph]({{ site.baseurl }}/assets/independent_study/git_graph.jpg)
 
-This unit teaches students the basic concepts of git. The learn how to set up
-a local repository and create simple, single branch commits. In addition, they
-learn how to set up a remote repository in order to save and test their work.
-Again, this unit is **not** intended to give students a complete understanding
-git. Instead, since they are working alone, a lot of the complexity can be
-hidden and they merely need to understand enough to be able to interact with/
-get help from the ChatBot.
+This unit teaches students the basic concepts of `git`. In it, they will learn
+how to set up a local repository and create simple, single branch projects. In
+addition, they learn how to set up a remote repository in order to save and test
+their work. Again, this unit is **not** intended to give students a complete
+understanding `git`. Instead, since they are working alone, a lot of the
+complexity can be hidden. This means that they can slowly increase their
+understanding over the entire course, relying on the ChatBot to help them jump
+over the small hurdles they encounter.
 
 ##### Keywords
 
@@ -103,17 +106,18 @@ Commits, GitLab, Conventional Comments, CI/CD
 
 #### Unit 3: Advanced Python
 
-![Advanced Python Types]({{ site.baseurl }}/assets/independent_study/one_liner.png)
+![Advanced Python Topics]({{ site.baseurl }}/assets/independent_study/one_liner.png)
 
 This is the final "background concepts" unit for students. It is intended to
-help them brush up on their Python and to understand the importance of types.
-I chose comprehensions and generics very specifically because most students
-won't have ever seen them and they provide a good basis of discussion about the
-importance of having good, easy to understand, difficult to break code.
+help them brush up on their Python and to understand the importance of types
+when developing large, complex project. I chose comprehensions and generics very
+specifically because most students won't have ever seen them and they provide a
+good basis of discussion about the importance of having good, easy to
+understand, difficult to break code.
 
 ##### Keywords
 
-Generic Types, Comprehensions, Objects
+Python, Generic Types, Comprehensions, Objects
 
 ##### Resources
 
@@ -125,20 +129,21 @@ Generic Types, Comprehensions, Objects
 
 ![ChatBot Answer to a Question]({{ site.baseurl }}/assets/independent_study/chatbot_answer.png)
 
-This is the first unit where students are specifically instructed to use a
-ChatBot to help create something that they might otherwise struggle to complete.
-The point of this unit, as with the other, future units, is to get students
-comfortable with using a ChatBot to augment their abilities while simultaneously
-forcing them to reflect/understand the code that is being created.
+This unit is the first one where students are specifically instructed to use a
+ChatBot to help create something that they might otherwise struggle to complete
+on their own. The point of this unit, as with the other, future units, is to
+get students comfortable with using a ChatBot to augment their abilities while
+simultaneously forcing them to reflect/understand the code that is being created.
 
 In particular, this unit has students create a series of GitHub Pages websites
 of increasing complexity. The final, most difficult one is a "spinner" that I
 can use in my other classes to pick an in-class participant. The goal is for
-them to see the web as a series of html websites with various API back-ends.
+them to see the web as a series of HTML/JavaScript websites with various API
+back-ends.
 
 ##### Keywords
 
-ChatBots, GitHub, HTML, JavaScript, APIs, Client-side App
+ChatBots, GitHub, HTML, JavaScript, APIs, Client-side Apps
 
 ##### Resources
 
@@ -150,10 +155,12 @@ ChatBots, GitHub, HTML, JavaScript, APIs, Client-side App
 
 ![AWS Lambda logo]({{ site.baseurl }}/assets/independent_study/aws_services.png)
 
-This unit has students start to create a (very simple) backend API for their
-website. It guides them through the creation of a simple lambda (compute),
-dynamodb table (memory), and s3 bucket (storage) that does some simple
-functionality.
+This unit has students start to create a (very simple) backend API for the
+websites they created in the previous unit. It guides them through the usage and
+creation of basic AWS components such as a simple Lambda (compute), DynamoDB
+table (memory), and S3 bucket (storage). Once they understand each of these
+individual parts, they tie them together to create a their first AWS based
+service.
 
 Getting up to speed on this can be fairly difficult, so the worksheets are
 designed to prompt students to both use a ChatBot **and** consider the output
@@ -177,11 +184,11 @@ Lambda, Regions, DynamoDB, S3, Permissions, boto3
 
 Docker is a fundamental technology of the modern web. Understanding how it
 works, even at a high level, helps students appreciate how code moves around
-the globe. In this unit, students learned to run, augment, and build Docker
-containers. A particular highlight is that they get to look at the image I use
-for my middle schoolers the is a "Harry Potter Terminal Scavenger Hunt".
+the globe. In this unit, students learn to run, augment, and build Docker their
+own containers. A particular highlight is that they get to look at the image I
+use for my middle schoolers: the "Harry Potter Terminal Scavenger Hunt".
 
-In the end, students will have an appreciate for how code can be containerized
+In the end, students will have an appreciation for how code can be containerized
 and therefore understand how their code (in a Docker image) can interface with
 the services that AWS provides.
 
@@ -198,12 +205,13 @@ Containers, DockerHub, Lambda, Environment, Program Hooks, Serverless, Harry Pot
 
 ![GitLab Pipeline]({{ site.baseurl }}/assets/independent_study/gitlab_pipeline.png)
 
-In the final part of the independent study, students learn to build and deploy
-their code using two pipeline: a source code pipeline and an infrastructure
-pipeline. Once they are able to deploy, they learn and add a lot of software
-engineering best-practices such as a dashboard and integration tests.
+In the penultimate portion of the independent study, students learn to build
+and deploy their code using two pipeline: a source code pipeline and an
+infrastructure pipeline. Once they are able to deploy, they learn how (and why)
+to add a lot of software engineering best-practices such as a dashboards and
+integration tests.
 
-In the end, students are able to create a simple Lambda based service that
+In the end, students are able to deploy a simple Lambda based service that
 stores information in both S3 and DynamoDB and can be called via the internet
 using API Gateway. As a final "cherry on top", they then replace the API call
 they made in their GitHub Pages website to a call to their own API.
@@ -222,3 +230,29 @@ CI/CD, Dashboards, Integration Testing, Infrastructure vs. Code, CDK
 - [Integ Test Worksheet](https://docs.google.com/document/d/1R_LksGNqv2zxR_O1FiwlW-26vI7MWVc99F_Je2SV7ts) - PENDING
 - [AWS Infra Repository](https://gitlab.com/eric.rizzi/aws-infra-txu.git)
 - [AWS Src Repository](https://gitlab.com/eric.rizzi/aws-src-txu.git)
+
+#### Unit 8: Proof of Knowledge
+
+In this final unit, students are asked to design a system that will solve a
+problem for someone in the school. They will have to talk to teachers/staff,
+create a plan, get buy-in from the interested parties, and finally build the
+actual project. Possible projects include: a game for a lower school class,
+a tool for librarians to track books, or a 3D printer utility for the science
+department.
+
+In the end, students will be assessed on how much their project satisfies the
+original vision **and** how much their solution relies on the concepts they
+learned throughout the course. Finally, students will have to give a high-level
+presentation on the design of their system and the choices they made along the
+way. The presentation will be targeted at people who have _some_ programming
+knowledge, but are not experts in AWS/distributed systems. This will require
+students to solidify their knowledge and abstract it so other students learn
+about what is possible.
+
+##### Keywords
+
+Final Project, Specifications, Creativity, Best-Practices
+
+##### Resources
+
+- PENDING
