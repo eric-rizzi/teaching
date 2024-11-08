@@ -84,8 +84,9 @@ Programming, PRIMM, Grok, Python, Conditional, Variables, Loops, Turtles, EmojiP
 - [Slides](https://docs.google.com/presentation/d/1cRtUOt-Q6cIK2JgTmWrYXtshWAFtZHKgS5iJ1E72Dlw)
 - [MadLibs to teach string operations](https://docs.google.com/document/d/1-AwvVtv59yDz-mvorbLMAJdnjadjgOmC5QAquUhNyp0)
 - [Connections like game to teach conditionals](https://docs.google.com/document/d/1LOTwfDylpD5fnUC1dwykx5nrTQwpntYi2X0pwWtR2Jw)
-- [Personality quizzes to react to user input]() - PENDING
+- [Binary calculator to teach iteration](https://docs.google.com/document/d/183j9K37eSpVBpgw3tDEmQOA_XPoAF9FEssBAVmYFE4w)
 - [Turtles to teach loops](https://docs.google.com/document/d/1M3QkPWw4FBevTRVVvPYrpMLnrxy3whFOzJG3GN-qLyo)
+- [Personality quizzes to react to user input]() - PENDING
 
 #### Unit 2: Fractals and Recursion
 
