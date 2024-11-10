@@ -101,7 +101,15 @@ MatPlotLib, Graphing, Randomness, Parsing, Python
 
 - [Slides](https://docs.google.com/presentation/d/1-_J7SscxvexRtwTF_6ETjWs9mbamOPVeRQC-MHccIn0)
 - [Funny Graphs Worksheet](https://docs.google.com/document/d/1obfWo5Phspuw9k_YHaiCtrZJnYGjbZFDaL3R8Z7DMrk)
-- [Monte Carlo Method Worksheet](https://docs.google.com/document/d/11h5Xa6s6rMgayko8BXp4bPpxtYDhpC_-As9ktSmdI5g)
+- Monte Carlo Method Worksheets
+    - [Structured](https://docs.google.com/document/d/11h5Xa6s6rMgayko8BXp4bPpxtYDhpC_-As9ktSmdI5g)
+    - [Unstructured](https://docs.google.com/document/d/1EEVFhbRojiaaFZse698KwxMyrZROzux8XKCbSIbfNRE)
+- Class Randomness Worksheets
+    - [Structured](https://docs.google.com/document/d/1WGmq0FNMfqMiFYv6bujM-Ddne2fGtgoxewaSlKE90ws)
+    - [Unstructured](https://docs.google.com/document/d/1xcpXlNsnr6HG9mrPdvLJyR8pJBkIrwSnpOI4h1_hfXI)
+- Plotting the Classics Worksheets (based on inferentialthinking.com course)
+    - [Structured](https://docs.google.com/document/d/1VL1Te3xlzuw_cUXSsoPjWMT-VL_0K1gM-JGDDv7GSvU)
+    - [Unstructured](https://docs.google.com/document/d/1moe5tKclfZRDqqLJDJ15T6FumJchU9uUCZS8zAl1QhQ)
 
 #### Unit 3: Lists, Sets, and Maps
 
@@ -120,6 +128,12 @@ Data Structures, JSON, Manufactoria, Finite State Machines, Markov Chains
 ##### Resources
 
 - [Slides](https://docs.google.com/presentation/d/1GtabBNSjaoEHF5L5NOkuel0Q0qboPFuKXzkHOjKT6yA)
+- Nerd Dice Worksheets
+    - [Structured](https://docs.google.com/document/d/1lto9_vbNkReZaGUywDaO9YWiVxrXTeqs5PLshjJuYoo)
+    - [Unstructured](https://docs.google.com/document/d/1e9xWAlFcYCFBPapMjFKRzXOiDaptUdPo_Iq3KRK2y2w)
+- Text Analysis Worksheets
+    - [Structured]()
+    - [Unstructured]()
 
 #### Unit 4: Learning Machines
 
