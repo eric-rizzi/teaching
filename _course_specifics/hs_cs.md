@@ -83,7 +83,7 @@ Programming, PRIMM, Grok, Python, Conditional, Variables, Loops, Turtles, EmojiP
 
 - [Slides](https://docs.google.com/presentation/d/1cRtUOt-Q6cIK2JgTmWrYXtshWAFtZHKgS5iJ1E72Dlw)
 - [MadLibs to teach string operations](https://docs.google.com/document/d/1-AwvVtv59yDz-mvorbLMAJdnjadjgOmC5QAquUhNyp0)
-- [Connections like game to teach conditionals](https://docs.google.com/document/d/1LOTwfDylpD5fnUC1dwykx5nrTQwpntYi2X0pwWtR2Jw)
+- [Connections-esque game to teach conditionals](https://docs.google.com/document/d/1LOTwfDylpD5fnUC1dwykx5nrTQwpntYi2X0pwWtR2Jw)
 - [Binary calculator to teach iteration](https://docs.google.com/document/d/183j9K37eSpVBpgw3tDEmQOA_XPoAF9FEssBAVmYFE4w)
 - [Turtles to teach loops](https://docs.google.com/document/d/1M3QkPWw4FBevTRVVvPYrpMLnrxy3whFOzJG3GN-qLyo)
 - [Personality quizzes to react to user input]() - PENDING
@@ -92,9 +92,9 @@ Programming, PRIMM, Grok, Python, Conditional, Variables, Loops, Turtles, EmojiP
 
 ![Fractal Tree]({{ site.baseurl }}/assets/hs_cs/forest.jpg)
 
-Given the basic understanding of Python that students got in the previous units,
-this set of classes is designed to expose students to recursion. The purpose of
-the unit is to allow them to experiment with different ways to decompose
+Given the basic understanding of Python that students got in the previous unit,
+this unit is designed to expose students to functions and recursion. The purpose
+of the unit is to allow them to experiment with different ways to decompose
 problems and wrestle with the fact that there are many ways to write a correct
 program. In addition, this dive into recursion allows us to introduce fundamental
 concepts such as functions, and shows students how computers can be used to
