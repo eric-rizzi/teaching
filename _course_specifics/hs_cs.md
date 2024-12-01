@@ -84,8 +84,9 @@ Programming, PRIMM, Grok, Python, Conditional, Variables, Loops, Turtles, EmojiP
 - [Slides](https://docs.google.com/presentation/d/1cRtUOt-Q6cIK2JgTmWrYXtshWAFtZHKgS5iJ1E72Dlw)
 - [MadLibs to teach string operations](https://docs.google.com/document/d/1-AwvVtv59yDz-mvorbLMAJdnjadjgOmC5QAquUhNyp0)
 - [Connections-esque game to teach conditionals](https://docs.google.com/document/d/1LOTwfDylpD5fnUC1dwykx5nrTQwpntYi2X0pwWtR2Jw)
-- [Binary calculator to teach iteration](https://docs.google.com/document/d/183j9K37eSpVBpgw3tDEmQOA_XPoAF9FEssBAVmYFE4w)
 - [Turtles to teach loops](https://docs.google.com/document/d/1M3QkPWw4FBevTRVVvPYrpMLnrxy3whFOzJG3GN-qLyo)
+- [Secret Messages to teach the _accumulator pattern_](https://docs.google.com/document/d/1TiQm3HpzzWlnJl5ILCaigmE8zZOyYrJGeLjrZ_rafXo)
+- [Binary calculator to teach iteration](https://docs.google.com/document/d/183j9K37eSpVBpgw3tDEmQOA_XPoAF9FEssBAVmYFE4w)
 - [Personality quizzes to react to user input]() - PENDING
 
 #### Unit 2: Fractals and Recursion
@@ -108,7 +109,7 @@ Programming, PRIMM, Python, Functions, Call Stacks, Fractals, Recursion
 
 - [Slides](https://docs.google.com/presentation/d/1FxPj_-0XfHrqkxCdF04YyP_OCcdqfmHGcRxVqN-3DYk)
 - [Turtles to teach functions](https://docs.google.com/document/d/1pD_fh3PX6DwU3aemTk7Rn886AjMAgYAPAlwt7aCmDlk)
-- [Robozzle Worksheet](https://docs.google.com/document/d/1QiQHOOVJecKwnOi_IGNrIDqSbMQhL2UCoL90OGBYXFg)
+- [Robozzle to introduce recursion](https://docs.google.com/document/d/1QiQHOOVJecKwnOi_IGNrIDqSbMQhL2UCoL90OGBYXFg)
 - [Turtles to teach recursion](https://docs.google.com/document/d/1KZZBXd41aoYjR4rYAPWKPmsHDFJMrjmcIhX95dQPDW0)
 
 #### Unit 3: Programming in Practice
