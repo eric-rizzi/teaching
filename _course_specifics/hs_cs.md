@@ -85,9 +85,9 @@ Programming, PRIMM, Grok, Python, Conditional, Variables, Loops, Turtles, EmojiP
 - [MadLibs to teach string operations](https://docs.google.com/document/d/1-AwvVtv59yDz-mvorbLMAJdnjadjgOmC5QAquUhNyp0)
 - [Connections-esque game to teach conditionals](https://docs.google.com/document/d/1LOTwfDylpD5fnUC1dwykx5nrTQwpntYi2X0pwWtR2Jw)
 - [Turtles to teach loops](https://docs.google.com/document/d/1M3QkPWw4FBevTRVVvPYrpMLnrxy3whFOzJG3GN-qLyo)
-- [Secret Messages to teach the _accumulator pattern_](https://docs.google.com/document/d/1TiQm3HpzzWlnJl5ILCaigmE8zZOyYrJGeLjrZ_rafXo)
+- [Secret messages to teach the _accumulator pattern_](https://docs.google.com/document/d/1TiQm3HpzzWlnJl5ILCaigmE8zZOyYrJGeLjrZ_rafXo)
 - [Binary calculator to teach iteration](https://docs.google.com/document/d/183j9K37eSpVBpgw3tDEmQOA_XPoAF9FEssBAVmYFE4w)
-- [Personality quizzes to react to user input]() - PENDING
+- [Unit review sheet](https://docs.google.com/document/d/1JRC6dt6In4ur31Bg9uEWnNB6SLyhWFfIBuIyiX1NwrI)
 
 #### Unit 2: Fractals and Recursion
 
@@ -161,5 +161,6 @@ Programming, Python, Pixels, RGB, Photo Editing, PhotoShop
 
 ### Pending
 
+- Using [Personality quizzes to react to user input]() - PENDING
 - Using [music to teach basic debugging techniques]() - PENDING
 - Using [PyGame to teach about objects]() - PENDING
