@@ -129,7 +129,7 @@ Programming, PRIMM, Python, Lists, Functions, EmojiPics, Prisoners Dilemma, `vsc
 ##### Resources
 
 - [Slides](https://docs.google.com/presentation/d/1iCuhE2ET333hNplvLSRDIOwzRc_UqGPRMgs-zyD1ZRU)
-- [EmojiPics to teach advanced loops](https://docs.google.com/document/d/1eRyqf4Wh6QenNvJX7IhwrWWl2eKnvaMdclrB-PerWaM)
+- [EmojiPics to teach advanced loops](https://docs.google.com/document/d/1QTFUdrvmvJDzejtqXY6LxjbkbCDDzDxtyuHH0FnWdT4)
 - [Prisoner's Dilemma to teach lists](https://docs.google.com/document/d/1F0GhWpyZ6LulCuW22pCCAIo370CjpGgNC-VmFXVEn-s)
 - [Turtle interpreters to teach while loops](https://docs.google.com/document/d/1mF3aDeWq6XYz056j8OPSvZ3ShTWoepHrrD5vVlUfK7w)
 - [Turbozzle to teach vscode](https://docs.google.com/document/d/1fekLawCFuocIC7UNs41wR1hAvdX_QMzMMIOz599dnUU)
