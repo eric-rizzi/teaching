@@ -80,6 +80,8 @@ Types, Terminal, Git, Markdown, CI/CD, Testing
 ##### Resources
 
 - [Slides](https://docs.google.com/presentation/d/1rlnRn7dnPDq54ig-f2ZiRVZURiEUtDI9jY1sLQjMj7M)
+- [Command Line Worksheet](https://docs.google.com/document/d/1vkbXWdJovLMV1-w6NBhE25EzL_QALkfkZXIRrygZy_Y)
+- [TIL Repo Setup Worksheet](https://docs.google.com/document/d/1sKxsWjRBgt2ABAfRx6tLGViUGiLQBp8gdnEpSM6PgBk)
 - [Human vs. AI Worksheet](https://docs.google.com/document/d/1qQCPRWvj5NFtIXzdm8vN-o78t5ZvF_vRA85PAyezRaI)
 - [Hacker Functions](https://github.com/holycrap872/ucls-hacker-functions)
 
@@ -132,10 +134,26 @@ Data Structures, JSON, Manufactoria, Finite State Machines, Markov Chains
     - [Structured](https://docs.google.com/document/d/1lto9_vbNkReZaGUywDaO9YWiVxrXTeqs5PLshjJuYoo)
     - [Unstructured](https://docs.google.com/document/d/1e9xWAlFcYCFBPapMjFKRzXOiDaptUdPo_Iq3KRK2y2w)
 - Text Analysis Worksheets
-    - [Structured]()
-    - [Unstructured]()
+    - [Structured](https://docs.google.com/document/d/16RyyfLeFgYusdKyLlAZVpPn_eaLOoWZdl4A4x_U852I)
+    - [Unstructured](https://docs.google.com/document/d/1-v7pL5HZumD5vZaz0Xomjl-1uwfqtEiB3n031yuksLY)
+- Emoji Pics Worksheets
+    - [Structured](https://docs.google.com/document/d/1nuOUKBjcMtZB4cs4miADyMmzVowSWINpeCWuurLt1sw)
+    - [Unstructured](https://docs.google.com/document/d/1rEZU8kaY4DA9z7RObT1ZmhdPCIjQHulyetspzzGl2P0)
+- Markov Models Worksheets
+    - [Structured](https://docs.google.com/document/d/1a3iA1kl9uoAaWwEdl-4M0CnYFe0J2CbwdzDhdQSIodE)
+    - [Unstructured](https://docs.google.com/document/d/1EyZ5RL_CCch0ViK4T89vF9MAiG2jSskfZcLFEN0VlnM)
+- [Ouroboros Worksheet](https://docs.google.com/document/d/1fyMwDkbSTWVX5JdmpolnhawgO-G4HSe-4inz5asu6Fk/edit?usp=sharing)
 
 #### Unit 4: Learning Machines
+
+In this unit, students are given the basic vocabulary, concepts, and experiences
+required to understand how ML is used in the "real world". Then, students will
+use this ML terminology to accurately discuss and critique _their own_ learning
+experience. In particular, students will read and discuss various aspects of
+teaching/learning such as the purpose of grades and how humans learn best. The
+unit culminates with students creating their own lesson plan for a three class
+unit on debugging with references to best practices for both machine and human
+learning.
 
 ##### Keywords
 
