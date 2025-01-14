@@ -5,7 +5,7 @@ title: "My Courses"
 
 # Middle School Computer Science
 
-This course provides students an first look into the world of computation
+This course provides students a first look into the world of computation
 and exposes students to big ideas in Computer Science. It is intended to demystify
 the computer and give students the confidence to look "inside" the various
 abstractions that give computers their power.

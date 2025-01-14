@@ -42,7 +42,7 @@ This unit serves as the entry point for the course. It is designed to quickly
 get students up to speed in terms of what objects/classes are and how they work.
 The goal is _just_ to get students proficient enough that they can understand
 code that is being output by ChatBots in future lessons. It is **not** intended
-to take the place of a real CS course on object oriented programming.
+to take the place of a real CS course on object-oriented programming.
 
 In the unit, students will create their own versions of Pong and Fishy with the
 help of worksheets. There is very tight integration between the worksheets and
@@ -159,7 +159,7 @@ This unit has students start to create a (very simple) backend API for the
 websites they created in the previous unit. It guides them through the usage and
 creation of basic AWS components such as a simple Lambda (compute), DynamoDB
 table (memory), and S3 bucket (storage). Once they understand each of these
-individual parts, they tie them together to create a their first AWS based
+individual parts, they tie them together to create their first AWS based
 service.
 
 Getting up to speed on this can be fairly difficult, so the worksheets are
@@ -206,15 +206,15 @@ Containers, DockerHub, Lambda, Environment, Program Hooks, Serverless, Harry Pot
 ![GitLab Pipeline]({{ site.baseurl }}/assets/independent_study/gitlab_pipeline.png)
 
 In the penultimate portion of the independent study, students learn to build
-and deploy their code using two pipeline: a source code pipeline and an
+and deploy their code using two pipelines: a source code pipeline and an
 infrastructure pipeline. Once they are able to deploy, they learn how (and why)
 to add a lot of software engineering best-practices such as a dashboards and
 integration tests.
 
-In the end, students are able to deploy a simple Lambda based service that
-stores information in both S3 and DynamoDB and can be called via the internet
-using API Gateway. As a final "cherry on top", they then replace the API call
-they made in their GitHub Pages website to a call to their own API.
+In the end, students can deploy a simple Lambda based service that stores
+information in both S3 and DynamoDB and can be called via the internet using API
+Gateway. As a final "cherry on top", they then replace the API call they made in
+their GitHub Pages website to a call to their own API.
 
 ##### Keywords
 

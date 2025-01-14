@@ -119,7 +119,7 @@ Programming, PRIMM, Python, Functions, Call Stacks, Fractals, Recursion
 This third unit on programming teaches students about ways to generalize code
 and exploit patterns to reduce the amount of code that needs to be written.
 In particular, we start to move away from Grok and tackle a bunch of different
-problems from a wide-array of disciplines. This includes having students create
+problems from a wide array of disciplines. This includes having students create
 a Prisoner's Dilemma "bot" to fight in a class-wide tournament.
 
 ##### Keywords

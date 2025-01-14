@@ -7,7 +7,7 @@ title: "My Projects"
 
 I worked with the science department (physics) to allow them to 3D print data
 that students gathered during various experiments. It initially came about as a
-way to show students what measurements of magnetism on a electrified plate looks
+way to show students what measurements of magnetism on an electrified plate looks
 like, but you could really print any data that has three dimensions (x, y, and
 some third "height" value).
 

@@ -48,7 +48,7 @@ Units include:
 
 In this unit, we explore the technical and philosophical roots of AI. We first
 talk about how most problems can be thought of as a form of search. Then we
-talk about (and demonstrate) the original Turing Test and what it's strengths/
+talk about (and demonstrate) the original Turing Test and what its strengths/
 weaknesses are. After this, students do a quick "skills assessment". On the last
 day of the assessment, they are encouraged to use a ChatBot to aid them. This
 leads to a final discussion about the role of ChatBots for learners.
@@ -118,10 +118,10 @@ MatPlotLib, Graphing, Randomness, Parsing, Python
 In this unit, students learn about the power of Python's built-in data
 structures. In particular, they learn about the properties that the core data
 structures share and what makes them unique. From this foundation, students
-start to visualize different ways to link and traverse data. In particular,
-they come to understand how to build graphs and use them to represent FSMs and
-Markov Chains. The end result is the creation of a simplistic ChatBot that
-highlights how data and program combine to create an interesting result.
+start to visualize different ways to link and traverse data. They come to
+understand how to build graphs and use them to represent FSMs and Markov Chains.
+The end result is the creation of a simplistic ChatBot that highlights how data
+and program combine to create an interesting result.
 
 ##### Keywords
 
