@@ -42,7 +42,7 @@ go approach.
 
 Units include:
 
-#### Unit 0: Foundations of Intelligence
+#### Unit 00: Foundations of Intelligence
 
 ![Search Space Battleship]({{ site.baseurl }}/assets/ml_ai/search_space_battleship.jpg)
 
@@ -63,7 +63,7 @@ Search Space, Turing Test, ChatBots, Learning, Python
 - [Problem Set Skeleton](https://gitlab.com/eric.rizzi/problem-set-skeleton)
 - [Skills Assessment Worksheet](https://docs.google.com/document/d/1qt4WpGlUJX_-c_pszl-Al2Y12nbc3wcpDWMTOKnE-hw)
 
-#### Unit 1: SDE Bootcamp
+#### Unit 01: SDE Boot Camp
 
 In this unit, students are exposed to the core technologies that enforce good
 engineering practices. They learn to use the terminal, git, and deploy projects
@@ -85,7 +85,7 @@ Types, Terminal, Git, Markdown, CI/CD, Testing
 - [Human vs. AI Worksheet](https://docs.google.com/document/d/1qQCPRWvj5NFtIXzdm8vN-o78t5ZvF_vRA85PAyezRaI)
 - [Hacker Functions](https://github.com/holycrap872/ucls-hacker-functions)
 
-#### Unit 2: Introduction to Data Science
+#### Unit 02: Introduction to Data Science
 
 In this unit, students really get to programming. In particular, they learn to
 use Python to represent different types of data visually via the matplotlib
@@ -113,7 +113,7 @@ MatPlotLib, Graphing, Randomness, Parsing, Python
     - [Structured](https://docs.google.com/document/d/1VL1Te3xlzuw_cUXSsoPjWMT-VL_0K1gM-JGDDv7GSvU)
     - [Unstructured](https://docs.google.com/document/d/1moe5tKclfZRDqqLJDJ15T6FumJchU9uUCZS8zAl1QhQ)
 
-#### Unit 3: Lists, Sets, and Maps
+#### Unit 03: Lists, Sets, and Maps
 
 In this unit, students learn about the power of Python's built-in data
 structures. In particular, they learn about the properties that the core data
@@ -142,9 +142,9 @@ Data Structures, JSON, Manufactoria, Finite State Machines, Markov Chains
 - Markov Models Worksheets
     - [Structured](https://docs.google.com/document/d/1a3iA1kl9uoAaWwEdl-4M0CnYFe0J2CbwdzDhdQSIodE)
     - [Unstructured](https://docs.google.com/document/d/1EyZ5RL_CCch0ViK4T89vF9MAiG2jSskfZcLFEN0VlnM)
-- [Ouroboros Worksheet](https://docs.google.com/document/d/1fyMwDkbSTWVX5JdmpolnhawgO-G4HSe-4inz5asu6Fk/edit?usp=sharing)
+- [Ouroboros Worksheet](https://docs.google.com/document/d/1fyMwDkbSTWVX5JdmpolnhawgO-G4HSe-4inz5asu6Fk)
 
-#### Unit 4: Learning Machines
+#### Unit 04: Learning Machines
 
 In this unit, students are given the basic vocabulary, concepts, and experiences
 required to understand how ML is used in the "real world". Then, students will
@@ -162,8 +162,28 @@ Learning Types, Classifiers, Teaching Methods, Abstraction, Epistemology
 ##### Resources
 
 - [Slides](https://docs.google.com/presentation/d/1a2d9TV4lQo9174FEONIAHBjmw8MvClQrvRGND-xwcIs)
+- [NamedTuples and Immutability Worksheet](https://docs.google.com/document/d/1xan0wKmtAtdfNlcM0ZQWtNt6E37QdzplLj5k7C3sBNI)
 
-#### Unit 5: Bayesian Learning
+#### Unit 05: App Development 1
+
+In this unit, students are given the opportunity to create a project from
+scratch. This serves as an opportunity for them to build on all of the learning
+theory that we have just done and to interact with the ChatBot in a much more
+open-ended way. Students will be grouped into twos and threes and with the goal
+of creating a pong game of escalating complexity. Every class, students will be
+given custom goals to accomplish "next". This iteratively increasing complexity
+requires them to wrestle and reshape their code, resulting in real-world
+instances of debugging and problem solving.
+
+##### Keywords
+
+ChatBots, Git, Python, Independent Study
+
+##### Resources
+
+- [Slides](TODO)
+
+#### Unit 06: Bayesian Learning
 
 ##### Keywords
 
@@ -173,7 +193,7 @@ Bayes Theorem, Named Tuples, Blackjack
 
 - [Slides](https://docs.google.com/presentation/d/1t7dBUWiRDFQTU1SSowFp9VCaSElgotzSNtxaf8vXd5g)
 
-#### Unit 6: AI in Society
+#### Unit 07: AI in Society
 
 ##### Keywords
 
@@ -183,7 +203,7 @@ P-Doom, Utopia, Emotions, AI Safety, Ethics
 
 - [Slides](https://docs.google.com/presentation/d/1E_UgPGi9mZl_D5cM4-F3NAXO7DoMx6qZSLqolErBzvo)
 
-#### Unit 7: Evolutionary Algorithms
+#### Unit 08: Evolutionary Algorithms
 
 ##### Keywords
 
@@ -197,7 +217,7 @@ Fitness, Selection, Variability, Heritability, Emergence
 
 - [Slides]()
 
-#### Unit 8: Cognition and Computing
+#### Unit 09: Cognition and Computing
 
 ##### Keywords
 
@@ -207,7 +227,7 @@ Metaphors, Virtual Machines, Perception, Reality, Rationalism
 
 - [Slides]()
 
-#### Unit 9: Neural Networks
+#### Unit 10: Neural Networks
 
 ##### Keywords
 
@@ -217,7 +237,7 @@ Neurons, TensorFlow, Contextualism, Structuralism
 
 - [Slides]()
 
-#### Unit 10: App Development
+#### Unit 11: App Development 2
 
 ##### Keywords
 
@@ -225,6 +245,6 @@ ChatBots, Git, Agile, Python, Independent Study
 
 ##### Resources
 
-- [Slides](https://docs.google.com/presentation/d/1j3-A-c9cDM30cOzBfrxLNbDi0593FAP1YIC0udzDHas/edit?usp=sharing)
+- [Slides](https://docs.google.com/presentation/d/1j3-A-c9cDM30cOzBfrxLNbDi0593FAP1YIC0udzDHas)
 
 ### Links to Other Resources
