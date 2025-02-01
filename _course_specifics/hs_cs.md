@@ -109,8 +109,12 @@ Programming, PRIMM, Python, Functions, Call Stacks, Fractals, Recursion
 
 - [Slides](https://docs.google.com/presentation/d/1FxPj_-0XfHrqkxCdF04YyP_OCcdqfmHGcRxVqN-3DYk)
 - [Turtles to teach functions](https://docs.google.com/document/d/1pD_fh3PX6DwU3aemTk7Rn886AjMAgYAPAlwt7aCmDlk)
+- [Turtles to teach return types]()https://docs.google.com/document/d/1YcTDvjttDOR_3be6ru09AZmekXhPPpsQGAwZuhSxA3w
 - [Robozzle to introduce recursion](https://docs.google.com/document/d/1QiQHOOVJecKwnOi_IGNrIDqSbMQhL2UCoL90OGBYXFg)
 - [Turtles to teach recursion](https://docs.google.com/document/d/1KZZBXd41aoYjR4rYAPWKPmsHDFJMrjmcIhX95dQPDW0)
+- Unit review sheets:
+    - [Primary worksheet](https://docs.google.com/document/d/1JvvLg1t9qirK5kptCM3CtkF478smpt2b4quSn3QDeHA)
+    - [Supplemental worksheet - in case of a poorly timed break](https://docs.google.com/document/d/1nERmn08ClQl2Vh3gwiT03mRcjoSvnEfHRoGPMBAWIvM)
 
 #### Unit 3: Programming in Practice
 
@@ -133,7 +137,7 @@ Programming, PRIMM, Python, Lists, Functions, EmojiPics, Prisoners Dilemma, `vsc
 - [Prisoner's Dilemma to teach lists](https://docs.google.com/document/d/1F0GhWpyZ6LulCuW22pCCAIo370CjpGgNC-VmFXVEn-s)
 - [Turtle interpreters to teach while loops](https://docs.google.com/document/d/1mF3aDeWq6XYz056j8OPSvZ3ShTWoepHrrD5vVlUfK7w)
 - [Turbozzle to teach vscode](https://docs.google.com/document/d/1fekLawCFuocIC7UNs41wR1hAvdX_QMzMMIOz599dnUU)
-- [A problem set to review for the unit test](https://docs.google.com/document/d/14GKx1AaB0O0fBH9AcmVAaJzPGk21_oIWB6BlDdjIhCY)
+- [Unit review sheet](https://docs.google.com/document/d/14GKx1AaB0O0fBH9AcmVAaJzPGk21_oIWB6BlDdjIhCY)
 
 #### Unit 4: Image Manipulation via Python
 
@@ -154,7 +158,7 @@ Programming, Python, Pixels, RGB, Photo Editing, PhotoShop
 ##### Resources
 
 - [Slides](https://docs.google.com/presentation/d/1_2fKMQEYIzvMjF5db4E5Xnk0eXHXdXLZCOafnArKy58)
-- [Bitmap Worksheet](https://docs.google.com/document/d/1l6cYOHgc4svrhHIA_bq6oGIQXa7OGLsPTTuATS6NgbE)
+- [Hex Fiend to introduce bitmps](https://docs.google.com/document/d/1l6cYOHgc4svrhHIA_bq6oGIQXa7OGLsPTTuATS6NgbE)
 - [PythoShop Repo](https://github.com/dwheadon/PythoShop/tree/main)
 
 ### Links to Outside Resources
