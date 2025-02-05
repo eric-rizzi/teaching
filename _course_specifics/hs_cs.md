@@ -109,7 +109,7 @@ Programming, PRIMM, Python, Functions, Call Stacks, Fractals, Recursion
 
 - [Slides](https://docs.google.com/presentation/d/1FxPj_-0XfHrqkxCdF04YyP_OCcdqfmHGcRxVqN-3DYk)
 - [Turtles to teach functions](https://docs.google.com/document/d/1pD_fh3PX6DwU3aemTk7Rn886AjMAgYAPAlwt7aCmDlk)
-- [Turtles to teach return types]()https://docs.google.com/document/d/1YcTDvjttDOR_3be6ru09AZmekXhPPpsQGAwZuhSxA3w
+- [Functions to teach return types](https://docs.google.com/document/d/1YcTDvjttDOR_3be6ru09AZmekXhPPpsQGAwZuhSxA3w)
 - [Robozzle to introduce recursion](https://docs.google.com/document/d/1QiQHOOVJecKwnOi_IGNrIDqSbMQhL2UCoL90OGBYXFg)
 - [Turtles to teach recursion](https://docs.google.com/document/d/1KZZBXd41aoYjR4rYAPWKPmsHDFJMrjmcIhX95dQPDW0)
 - Unit review sheets:
