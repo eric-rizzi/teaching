@@ -87,14 +87,16 @@ Programming, PRIMM, Grok, Python, Conditional, Variables, Loops, Turtles, EmojiP
 - [Turtles to teach loops](https://docs.google.com/document/d/1M3QkPWw4FBevTRVVvPYrpMLnrxy3whFOzJG3GN-qLyo)
 - [Secret messages to teach the _accumulator pattern_](https://docs.google.com/document/d/1TiQm3HpzzWlnJl5ILCaigmE8zZOyYrJGeLjrZ_rafXo)
 - [Binary calculator to teach iteration](https://docs.google.com/document/d/183j9K37eSpVBpgw3tDEmQOA_XPoAF9FEssBAVmYFE4w)
-- [Unit review sheet](https://docs.google.com/document/d/1JRC6dt6In4ur31Bg9uEWnNB6SLyhWFfIBuIyiX1NwrI)
+- Unit review sheets:
+    - [Primary worksheet](https://docs.google.com/document/d/1JRC6dt6In4ur31Bg9uEWnNB6SLyhWFfIBuIyiX1NwrI)
+    - [Supplemental worksheet - in case of a poorly timed break](https://docs.google.com/document/d/1nERmn08ClQl2Vh3gwiT03mRcjoSvnEfHRoGPMBAWIvM)
 
 #### Unit 2: Fractals and Recursion
 
 ![Fractal Tree]({{ site.baseurl }}/assets/hs_cs/forest.jpg)
 
 Given the basic understanding of Python that students got in the previous unit,
-this unit is designed to expose students to functions and recursion. The purpose
+this unit is designed to expose students to fractals and recursion. The purpose
 of the unit is to allow them to experiment with different ways to decompose
 problems and wrestle with the fact that there are many ways to write a correct
 program. In addition, this dive into recursion allows us to introduce fundamental
@@ -112,9 +114,7 @@ Programming, PRIMM, Python, Functions, Call Stacks, Fractals, Recursion
 - [Functions to teach return types](https://docs.google.com/document/d/1YcTDvjttDOR_3be6ru09AZmekXhPPpsQGAwZuhSxA3w)
 - [Robozzle to introduce recursion](https://docs.google.com/document/d/1QiQHOOVJecKwnOi_IGNrIDqSbMQhL2UCoL90OGBYXFg)
 - [Turtles to teach recursion](https://docs.google.com/document/d/1KZZBXd41aoYjR4rYAPWKPmsHDFJMrjmcIhX95dQPDW0)
-- Unit review sheets:
-    - [Primary worksheet](https://docs.google.com/document/d/1JvvLg1t9qirK5kptCM3CtkF478smpt2b4quSn3QDeHA)
-    - [Supplemental worksheet - in case of a poorly timed break](https://docs.google.com/document/d/1nERmn08ClQl2Vh3gwiT03mRcjoSvnEfHRoGPMBAWIvM)
+- [Unit review sheet](https://docs.google.com/document/d/1JvvLg1t9qirK5kptCM3CtkF478smpt2b4quSn3QDeHA)
 
 #### Unit 3: Programming in Practice
 
@@ -135,7 +135,6 @@ Programming, PRIMM, Python, Lists, Functions, EmojiPics, Prisoners Dilemma, `vsc
 - [Slides](https://docs.google.com/presentation/d/1iCuhE2ET333hNplvLSRDIOwzRc_UqGPRMgs-zyD1ZRU)
 - [EmojiPics to teach advanced loops](https://docs.google.com/document/d/1QTFUdrvmvJDzejtqXY6LxjbkbCDDzDxtyuHH0FnWdT4)
 - [Prisoner's Dilemma to teach lists](https://docs.google.com/document/d/1F0GhWpyZ6LulCuW22pCCAIo370CjpGgNC-VmFXVEn-s)
-- [Turtle interpreters to teach while loops](https://docs.google.com/document/d/1mF3aDeWq6XYz056j8OPSvZ3ShTWoepHrrD5vVlUfK7w)
 - [Turbozzle to teach vscode](https://docs.google.com/document/d/1fekLawCFuocIC7UNs41wR1hAvdX_QMzMMIOz599dnUU)
 - [Unit review sheet](https://docs.google.com/document/d/14GKx1AaB0O0fBH9AcmVAaJzPGk21_oIWB6BlDdjIhCY)
 
@@ -158,13 +157,14 @@ Programming, Python, Pixels, RGB, Photo Editing, PhotoShop
 ##### Resources
 
 - [Slides](https://docs.google.com/presentation/d/1_2fKMQEYIzvMjF5db4E5Xnk0eXHXdXLZCOafnArKy58)
-- [Hex Fiend to introduce bitmps](https://docs.google.com/document/d/1l6cYOHgc4svrhHIA_bq6oGIQXa7OGLsPTTuATS6NgbE)
+- [Hex Fiend to introduce bitmaps](https://docs.google.com/document/d/1l6cYOHgc4svrhHIA_bq6oGIQXa7OGLsPTTuATS6NgbE)
 - [PythoShop Repo](https://github.com/dwheadon/PythoShop/tree/main)
+    - Full set of worksheets/resources in README of repo
 
 ### Links to Outside Resources
 
-### Pending
+### Pending / Work in Progress
 
-- Using [Personality quizzes to react to user input]() - PENDING
-- Using [music to teach basic debugging techniques]() - PENDING
-- Using [PyGame to teach about objects]() - PENDING
+- [Personality quizzes to react to user input]() - PENDING
+- [Turtle interpreters to teach while loops](https://docs.google.com/document/d/1mF3aDeWq6XYz056j8OPSvZ3ShTWoepHrrD5vVlUfK7w)
+- [Music to teach basic debugging techniques]() - PENDING
