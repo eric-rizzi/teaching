@@ -164,7 +164,25 @@ Learning Types, Classifiers, Teaching Methods, Abstraction, Epistemology
 - [Slides](https://docs.google.com/presentation/d/1a2d9TV4lQo9174FEONIAHBjmw8MvClQrvRGND-xwcIs)
 - [NamedTuples and Immutability Worksheet](https://docs.google.com/document/d/1xan0wKmtAtdfNlcM0ZQWtNt6E37QdzplLj5k7C3sBNI)
 
-#### Unit 05: App Development 1
+#### Unit 05: Bayesian Learning
+
+In this unit, students will develop simple "Bayesian Deciders" (not to be
+confused with Bayesian Classifiers, which are a bit too complex for the median
+student). They will investigate this by playing the game Skull, creating a
+simple, text-based Black Jack game, and analyzing cancer data. The overall
+point of the unit is to have students appreciate how you can make better
+predictions about the future if you rely on data that matches your current
+situation as much as possible.
+
+##### Keywords
+
+Bayes Theorem, NamedTuples, Blackjack, Skull, 3Blue1Brown
+
+##### Resources
+
+- [Slides](https://docs.google.com/presentation/d/1t7dBUWiRDFQTU1SSowFp9VCaSElgotzSNtxaf8vXd5g)
+
+#### Unit 06: App Development 1
 
 In this unit, students are given the opportunity to create a project from
 scratch. This serves as an opportunity for them to build on all of the learning
@@ -181,17 +199,7 @@ ChatBots, Git, Python, Independent Study
 
 ##### Resources
 
-- [Slides](TODO)
-
-#### Unit 06: Bayesian Learning
-
-##### Keywords
-
-Bayes Theorem, Named Tuples, Blackjack
-
-##### Resources
-
-- [Slides](https://docs.google.com/presentation/d/1t7dBUWiRDFQTU1SSowFp9VCaSElgotzSNtxaf8vXd5g)
+- [Slides](https://docs.google.com/presentation/d/1rYIYqfHcU8_0MPvLFQyTLnvYk3Q7inH6rkYVcvT9OK0)
 
 #### Unit 07: AI in Society
 
