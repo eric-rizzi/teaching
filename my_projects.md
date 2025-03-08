@@ -32,7 +32,7 @@ seeds (via student ids) for the RNG to make the games replayable and unique for
 individual students. I ended up creating a worksheet to go alongside it to
 encourage reflection as students worked.
 
-[Click Here](https://github.com/eric-rizzi/murder-mystery) for more information.
+[Click here](https://github.com/eric-rizzi/murder-mystery) for more information.
 
 # Robozzle
 
@@ -43,7 +43,7 @@ helping students visualize how functions work. Unfortunately, Robozzle was
 starting to show its age. That's when I found a fully client-side version
 of the game. I have helped update it a bit a put it in better shape for teaching.
 
-[Click Here](https://github.com/alexanderson1993/robozzle-react) for more information.
+[Click here](https://github.com/alexanderson1993/robozzle-react) for more information.
 
 # PythoShop
 
