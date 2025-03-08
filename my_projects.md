@@ -21,6 +21,19 @@ lesson.
 
 [Click here]({{ site.baseurl }}/my_projects/landscape_search_game.html) for more information.
 
+# Murder Mystery Debugging
+
+I attended SIGSCE 2025 and, while there, saw a presentation about a "murder-
+mystery debugging" activity [developed at Rutgers](http://nifty.stanford.edu/2025/sullivan-chen-centeno-murder-mystery/)
+for their CS2 class. I liked it so much that I created a version for Python.
+The concept is that you need to use a debugger to find out who is the murderer
+in a randomly generated game. There's a lot to nice features, including using
+seeds (via student ids) for the RNG to make the games replayable and unique for
+individual students. I ended up creating a worksheet to go alongside it to
+encourage reflection as students worked.
+
+[Click Here](https://github.com/eric-rizzi/murder-mystery) for more information.
+
 # Robozzle
 
 Robozzle is a logic game originally in 2009 by Igor Ostrovsky. The
