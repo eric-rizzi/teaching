@@ -29,14 +29,14 @@ go approach.
 
 #### Years Taught
 
-- [2023 - 2024](https://github.com/holycrap872/ucls-ml-ai/tree/2023-2024)
-- [2024 - 2025](https://github.com/holycrap872/ucls-ml-ai)
+- [2023 - 2024](https://github.com/eric-rizzi/ucls-ml-ai/tree/2023-2024)
+- [2024 - 2025](https://github.com/eric-rizzi/ucls-ml-ai)
 
 #### Main Links
 
-- [Main Repository](https://github.com/holycrap872/ucls-ml-ai)
-- [Administrative Documents](https://github.com/holycrap872/ucls-ml-ai/tree/mainline/Administration)
-- [Course Curriculum](https://github.com/holycrap872/ucls-ml-ai/tree/mainline/CourseMaterial)
+- [Main Repository](https://github.com/eric-rizzi/ucls-ml-ai)
+- [Administrative Documents](https://github.com/eric-rizzi/ucls-ml-ai/tree/mainline/Administration)
+- [Course Curriculum](https://github.com/eric-rizzi/ucls-ml-ai/tree/mainline/CourseMaterial)
 
 ### Course Units
 
@@ -83,7 +83,7 @@ Types, Terminal, Git, Markdown, CI/CD, Testing
 - [Command Line Worksheet](https://docs.google.com/document/d/1vkbXWdJovLMV1-w6NBhE25EzL_QALkfkZXIRrygZy_Y)
 - [TIL Repo Setup Worksheet](https://docs.google.com/document/d/1sKxsWjRBgt2ABAfRx6tLGViUGiLQBp8gdnEpSM6PgBk)
 - [Human vs. AI Worksheet](https://docs.google.com/document/d/1qQCPRWvj5NFtIXzdm8vN-o78t5ZvF_vRA85PAyezRaI)
-- [Hacker Functions](https://github.com/holycrap872/ucls-hacker-functions)
+- [Hacker Functions](https://github.com/eric-rizzi/ucls-hacker-functions)
 
 #### Unit 02: Introduction to Data Science
 

@@ -20,14 +20,14 @@ a base level of understanding of important topics in Computer Science.
 
 #### Years Taught
 
-- [2023 - 2024](https://github.com/holycrap872/ucls-hs-intro-to-cs/tree/2023-2024)
-- [2024 - 2025](https://github.com/holycrap872/ucls-hs-intro-to-cs)
+- [2023 - 2024](https://github.com/eric-rizzi/ucls-hs-intro-to-cs/tree/2023-2024)
+- [2024 - 2025](https://github.com/eric-rizzi/ucls-hs-intro-to-cs)
 
 #### Main Links
 
-- [Main Repository](https://github.com/holycrap872/ucls-hs-intro-to-cs)
-- [Administrative Documents](https://github.com/holycrap872/ucls-hs-intro-to-cs/tree/mainline/Administration)
-- [Course Curriculum](https://github.com/holycrap872/ucls-hs-intro-to-cs/tree/mainline/CourseMaterial)
+- [Main Repository](https://github.com/eric-rizzi/ucls-hs-intro-to-cs)
+- [Administrative Documents](https://github.com/eric-rizzi/ucls-hs-intro-to-cs/tree/mainline/Administration)
+- [Course Curriculum](https://github.com/eric-rizzi/ucls-hs-intro-to-cs/tree/mainline/CourseMaterial)
 
 ### Course Units
 

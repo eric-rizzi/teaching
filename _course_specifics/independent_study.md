@@ -26,13 +26,13 @@ way up to the cutting edge.
 
 #### Years Taught
 
-- [2024 - 2025](https://github.com/holycrap872/ucls-independent-study)
+- [2024 - 2025](https://github.com/eric-rizzi/ucls-independent-study)
 
 #### Main Links
 
-- [Main Repository](https://github.com/holycrap872/ucls-independent-study)
-- [Administrative Documents](https://github.com/holycrap872/ucls-ml-ai/tree/mainline/Administration)
-- [Course Curriculum](https://github.com/holycrap872/ucls-independent-study)
+- [Main Repository](https://github.com/eric-rizzi/ucls-independent-study)
+- [Administrative Documents](https://github.com/eric-rizzi/ucls-ml-ai/tree/mainline/Administration)
+- [Course Curriculum](https://github.com/eric-rizzi/ucls-independent-study)
 
 #### Unit 0: Intermediate Python
 
@@ -60,8 +60,8 @@ Python, Grok, Pygame, Objects, Functions, PRIMM, Fishy, Pong
 - [Pong Worksheet](https://docs.google.com/document/d/1eW4la2fCusx_mdwDf4gEzEPu_daq-ZIVavT85ASw3pc)
 - [Object Basics Worksheet](https://docs.google.com/document/d/1rS0B1gvbGJEnMxNH8ZPs3ojfpMQOp3Cf3u1ARx2HDU0)
 - [Fishy Worksheet](https://docs.google.com/document/d/1gsYWeewpQPB9gjoGOE963jIxD110brmhtM3Qjbk9Ao8)
-- [Pong Repo](https://github.com/holycrap872/ucls-partial-pong)
-- [Fishy Repo](https://github.com/holycrap872/ucls-fishy)
+- [Pong Repo](https://github.com/eric-rizzi/ucls-partial-pong)
+- [Fishy Repo](https://github.com/eric-rizzi/ucls-fishy)
 
 #### Unit 1: Command-Line
 
