@@ -42,11 +42,10 @@ difficult for students. Second, their pedagogy is sometimes lacking. Therefore,
 I created a prototype of what I think the perfect learning platform would look
 like. It's customizable, it has many "primitives" to allow students to assess
 their understanding, and, most importantly, it has them reflect on what they
-learned and adds their reflection to a long-running "cheat sheet".
+learned (with feedback from a ChatBot) and adds their reflection to a
+long-running "knowledge base".
 
 [Click here](https://eric-rizzi.github.io/thoughtful-python/) to see the prototype.
-
-> Note: To be done is integration with a ChatBot to give feedback on these reflections.
 
 # Robozzle
 
