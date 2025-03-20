@@ -36,15 +36,13 @@ encourage reflection as students worked.
 
 # Thoughtful Python
 
-I really like the content in Grok but it suffers from a few issues in my opinion.
-First, they don't allow you to create your own content and their flow can
-sometimes be a bit weird (and even buggy). Second, their pedagogy is sometimes
-lacking: they overly focus on code writing and not code comprehension. Therefore,
-I vibe-coded a "Learn Python" client-side application as a prototype of what I
-think the perfect learning platform would look like. It's customizable, it has
-many "primitives" to all students to assess their understanding, and, most
-importantly, it has them reflect on what they learned in paragraph form and adds
-it to a long-running "cheat sheet" that they can use on tests.
+I like [Grok](https://groklearning.com/), but it suffers from a few issues: they
+don't allow you to create your own content and their existing content can be
+difficult for students. Second, their pedagogy is sometimes lacking. Therefore,
+I created a prototype of what I think the perfect learning platform would look
+like. It's customizable, it has many "primitives" to allow students to assess
+their understanding, and, most importantly, it has them reflect on what they
+learned and adds their reflection to a long-running "cheat sheet".
 
 [Click here](https://eric-rizzi.github.io/thoughtful-python/) to see the prototype.
 
