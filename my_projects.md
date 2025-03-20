@@ -34,6 +34,22 @@ encourage reflection as students worked.
 
 [Click here](https://github.com/eric-rizzi/murder-mystery) for more information.
 
+# Thoughtful Python
+
+I really like the content in Grok but it suffers from a few issues in my opinion.
+First, they don't allow you to create your own content and their flow can
+sometimes be a bit weird (and even buggy). Second, their pedagogy is sometimes
+lacking: they overly focus on code writing and not code comprehension. Therefore,
+I vibe-coded a "Learn Python" client-side application as a prototype of what I
+think the perfect learning platform would look like. It's customizable, it has
+many "primitives" to all students to assess their understanding, and, most
+importantly, it has them reflect on what they learned in paragraph form and adds
+it to a long-running "cheat sheet" that they can use on tests.
+
+[Click here](https://eric-rizzi.github.io/thoughtful-python/) to see the prototype.
+
+> Note: To be done is integration with a ChatBot to give feedback on these reflections.
+
 # Robozzle
 
 Robozzle is a logic game originally in 2009 by Igor Ostrovsky. The
