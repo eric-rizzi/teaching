@@ -14,18 +14,19 @@ categories:
 
 ### Course Highlights
 
-This course introduces students to both the technological and philosophical
-underpinnings of the current AI revolution. The course is 1/3 philosophy and
-ethics, 1/3 programming, and 1/3 software engineering practices. As the course
-progresses, students are encouraged to take more and more use of ChatBots to
-help them produce code more quickly. The theory is that ChatBots provide a new,
-higher abstraction level that students should learn to interact with.
+This course introduces students to the technological and philosophical
+foundations of the AI revolution. The course is 1/3 philosophy and ethics,
+1/3 programming, and 1/3 software engineering practices. As the course
+progresses, students are encouraged to use ChatBots to help them produce code
+and understand new ideas more quickly. At each step, students then reflect on
+their experience to see if the ChatBot added to, or detracted from their
+learning.
 
-The class itself is designed to mold around the current AP curriculum. The
-reason for this is that many students in the class will take the AP class the
-year after taking this class and many students in the class have already taken
-the AP class. Therefore, the course focuses on a more functional, learn as you
-go approach.
+The class is designed to mold around the current AP curriculum. The reason for
+this is that many students in the class will take the AP class the year after
+taking this class and many students in the class have already taken the AP
+class. By focusing on philosophy, ethics, and Software Engineering, students of
+all abilities are exposed to new and challenging content.
 
 #### Years Taught
 
@@ -50,8 +51,8 @@ In this unit, we explore the technical and philosophical roots of AI. We first
 talk about how most problems can be thought of as a form of search. Then we
 talk about (and demonstrate) the original Turing Test and what its strengths/
 weaknesses are. After this, students do a quick "skills assessment". On the last
-day of the assessment, they are encouraged to use a ChatBot to aid them. This
-leads to a final discussion about the role of ChatBots for learners.
+day of the assessment, students are encouraged to use a ChatBot to aid them.
+This leads to a final discussion about the role of ChatBots for learners.
 
 ##### Keywords
 
@@ -87,17 +88,17 @@ Types, Terminal, Git, Markdown, CI/CD, Testing
 
 #### Unit 02: Introduction to Data Science
 
-In this unit, students really get to programming. In particular, they learn to
-use Python to represent different types of data visually via the matplotlib
-library. In the process, students use the Monte Carlo method to find the area
-of a circle experimentally, see how difficult it is to create a truly random
-series of numbers, and examine old texts to see how language has changed through
-the decades. In the process, students learn how good data can lead to interesting
-conclusions while bad data can lead them astray.
+In this unit, students get to programming. In particular, they learn to use
+Python to represent different types of data visually via the matplotlib library.
+In the process, students use the Monte Carlo method to find the area of a circle
+experimentally, see how difficult it is to create a truly random series of
+numbers, and examine old texts to see how language changes over time. In the
+process, students learn how good data can lead to interesting conclusions while
+bad data can lead them astray.
 
 ##### Keywords
 
-MatPlotLib, Graphing, Randomness, Parsing, Python
+Matplotlib, Graphing, Randomness, Parsing, Python
 
 ##### Resources
 
@@ -171,8 +172,7 @@ confused with Bayesian Classifiers, which are a bit too complex for the median
 student). They will investigate this by playing the game Skull, creating a
 simple, text-based Black Jack game, and analyzing cancer data. The overall
 point of the unit is to have students appreciate how you can make better
-predictions about the future if you rely on data that matches your current
-situation as much as possible.
+predictions about the future if you use data that matches your present.
 
 ##### Keywords
 
@@ -181,15 +181,36 @@ Bayes Theorem, NamedTuples, Blackjack, Skull, 3Blue1Brown
 ##### Resources
 
 - [Slides](https://docs.google.com/presentation/d/1t7dBUWiRDFQTU1SSowFp9VCaSElgotzSNtxaf8vXd5g)
+- [Bayesian Probability](https://docs.google.com/document/d/1MqtmRg79Z4fb0xBvIxxB_wFwJX6cBlNoawjJvqBCnQY)
+- [Bayesian Blackjack](https://docs.google.com/document/d/1lurIZi_SWNf56cJHxNf0FcXbpbzKZZOucENvi6wU1JQ)
+- [Cancer Decider](https://docs.google.com/document/d/1M_g0or7qh1u5OhJAJoa3Y4hqlwjvn2UgN8ODPxc-nB0)
 
-#### Unit 06: App Development 1
+#### Unit 06: AI in Society
+
+In this unit, students talk about different ways that AI might fit into modern
+society. Students discuss the importance of originality, what a super-
+intelligence might look like, and what happens when there's misalignment
+between what humans want and what an AI is pursuing. The overall goal will be
+to decide the roles AI might play in the future and what tradeoffs come with
+possible role.
+
+##### Keywords
+
+P-Doom, Utopia, Emotions, AI Safety, Ethics
+
+##### Resources
+
+- [Slides](https://docs.google.com/presentation/d/1E_UgPGi9mZl_D5cM4-F3NAXO7DoMx6qZSLqolErBzvo)
+- [Paperclip Maximizer](https://www.decisionproblem.com/paperclips/index2.html)
+
+#### Unit 07: App Development 1
 
 In this unit, students are given the opportunity to create a project from
 scratch. This serves as an opportunity for them to build on all of the learning
 theory that we have just done and to interact with the ChatBot in a much more
 open-ended way. Students will be grouped into twos and threes and with the goal
-of creating a pong game of escalating complexity. Every class, students will be
-given custom goals to accomplish "next". This iteratively increasing complexity
+of creating a game of escalating complexity. Every class, students will be given
+tailored goals to accomplish "next". This iteratively increasing complexity
 requires them to wrestle and reshape their code, resulting in real-world
 instances of debugging and problem solving.
 
@@ -200,16 +221,6 @@ ChatBots, Git, Python, Independent Study
 ##### Resources
 
 - [Slides](https://docs.google.com/presentation/d/1rYIYqfHcU8_0MPvLFQyTLnvYk3Q7inH6rkYVcvT9OK0)
-
-#### Unit 07: AI in Society
-
-##### Keywords
-
-P-Doom, Utopia, Emotions, AI Safety, Ethics
-
-##### Resources
-
-- [Slides](https://docs.google.com/presentation/d/1E_UgPGi9mZl_D5cM4-F3NAXO7DoMx6qZSLqolErBzvo)
 
 #### Unit 08: Evolutionary Algorithms
 
