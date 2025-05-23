@@ -25,7 +25,7 @@ general problem solving.
 # Machine Learning/Artificial Intelligence
 
 The purpose of this course is to simultaneously teach students the equivalent of
-an "advanced python" course and introduce them to various state of the art
+an "advanced Python" course and introduce them to various state of the art
 techniques in ML/AI.
 
 [Click here]({{ site.baseurl }}/course_specifics/ml_ai.html) for more information.
