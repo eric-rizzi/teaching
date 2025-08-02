@@ -60,9 +60,9 @@ Search Space, Turing Test, ChatBots, Learning, Python
 
 ##### Resources
 
-- [Slides](https://docs.google.com/presentation/d/1bUrXyD7xr25gqngLw1tMPPwIsJldUXVKdybuE58Ee-o)
+- [Slides](https://docs.google.com/presentation/d/1NSnni6ffMNlVFq3EiIVKnmMuPAIipcoIJRnpC3OX-Wk)
 - [Problem Set Skeleton](https://gitlab.com/eric.rizzi/problem-set-skeleton)
-- [Skills Assessment Worksheet](https://docs.google.com/document/d/1qt4WpGlUJX_-c_pszl-Al2Y12nbc3wcpDWMTOKnE-hw)
+- [Skills Assessment Worksheet](https://docs.google.com/document/d/1svc0ky_F1ToAghRPZmfee3RIHFj87utk7paq0uSM2gA)
 
 #### Unit 01: SDE Boot Camp
 
@@ -80,10 +80,10 @@ Types, Terminal, Git, Markdown, CI/CD, Testing
 
 ##### Resources
 
-- [Slides](https://docs.google.com/presentation/d/1rlnRn7dnPDq54ig-f2ZiRVZURiEUtDI9jY1sLQjMj7M)
-- [Command Line Worksheet](https://docs.google.com/document/d/1vkbXWdJovLMV1-w6NBhE25EzL_QALkfkZXIRrygZy_Y)
-- [TIL Repo Setup Worksheet](https://docs.google.com/document/d/1sKxsWjRBgt2ABAfRx6tLGViUGiLQBp8gdnEpSM6PgBk)
-- [Human vs. AI Worksheet](https://docs.google.com/document/d/1qQCPRWvj5NFtIXzdm8vN-o78t5ZvF_vRA85PAyezRaI)
+- [Slides](https://docs.google.com/presentation/d/1hMOiAWbLOEaDqYd9-u1N05Ssr_JiKdTdYqVlJT9NmW0)
+- [Command Line Worksheet](https://docs.google.com/document/d/12OEhjtmQiYxDoniwRIBr1Qe9Q-PjFakPF-mkgltBfcE)
+- [TIL Repo Setup Worksheet](https://docs.google.com/document/d/1p4zIPsPVaHtmQ0lPAoNAQFoYARBuiqqfVsjWSmeZcJ8)
+- [Human vs. AI Worksheet](https://docs.google.com/document/d/1pK0KVunx7_XAfBnQaf5TVgwCxH9XWhOVSBjRMK78SVU)
 - [Hacker Functions](https://github.com/eric-rizzi/ucls-hacker-functions)
 
 #### Unit 02: Introduction to Data Science
@@ -102,17 +102,17 @@ Matplotlib, Graphing, Randomness, Parsing, Python
 
 ##### Resources
 
-- [Slides](https://docs.google.com/presentation/d/1-_J7SscxvexRtwTF_6ETjWs9mbamOPVeRQC-MHccIn0)
-- [Funny Graphs Worksheet](https://docs.google.com/document/d/1obfWo5Phspuw9k_YHaiCtrZJnYGjbZFDaL3R8Z7DMrk)
+- [Slides](https://docs.google.com/presentation/d/1bYLKpE1PT3EuWWZnJ-yBo7kvyLo9cVU2Q7y5ooeGfw4)
+- [Funny Graphs Worksheet](https://docs.google.com/document/d/1T4x_o800U7Vr9hVEq6Orn0nMymwMgowEwffYyZDFgvk)
 - Monte Carlo Method Worksheets
-    - [Structured](https://docs.google.com/document/d/11h5Xa6s6rMgayko8BXp4bPpxtYDhpC_-As9ktSmdI5g)
-    - [Unstructured](https://docs.google.com/document/d/1EEVFhbRojiaaFZse698KwxMyrZROzux8XKCbSIbfNRE)
+    - [Structured](https://docs.google.com/document/d/1DIQ1N1GNF53gSZbDJJfmB0Bg41I2P-_Q2sXSNSvzyDU)
+    - [Unstructured](https://docs.google.com/document/d/12bqA02GoGtZ-8eMGQ-x0ZjUBLx05MIYfelf8mJZ9PcU)
 - Class Randomness Worksheets
-    - [Structured](https://docs.google.com/document/d/1WGmq0FNMfqMiFYv6bujM-Ddne2fGtgoxewaSlKE90ws)
-    - [Unstructured](https://docs.google.com/document/d/1xcpXlNsnr6HG9mrPdvLJyR8pJBkIrwSnpOI4h1_hfXI)
+    - [Structured](https://docs.google.com/document/d/1436AW0gXcQYpAqIjBmUheMjHBW3KaTdIMCMFE5IxwYI)
+    - [Unstructured](https://docs.google.com/document/d/1BeyVPK8OWGAlv5E858vHgJkx7p1-JK8r69cCflRlsFA)
 - Plotting the Classics Worksheets (based on inferentialthinking.com course)
-    - [Structured](https://docs.google.com/document/d/1VL1Te3xlzuw_cUXSsoPjWMT-VL_0K1gM-JGDDv7GSvU)
-    - [Unstructured](https://docs.google.com/document/d/1moe5tKclfZRDqqLJDJ15T6FumJchU9uUCZS8zAl1QhQ)
+    - [Structured](https://docs.google.com/document/d/1k0Y46h60qx6GHhTKwXQxuN1iBJZv7heu62betDO0f0o)
+    - [Unstructured](https://docs.google.com/document/d/1WFiQGkNBqBaX5Cd6VJZwwE7HJb9LmMvjO0T-sgKW6Lk)
 
 #### Unit 03: Lists, Sets, and Maps
 
@@ -130,20 +130,20 @@ Data Structures, JSON, Manufactoria, Finite State Machines, Markov Chains
 
 ##### Resources
 
-- [Slides](https://docs.google.com/presentation/d/1GtabBNSjaoEHF5L5NOkuel0Q0qboPFuKXzkHOjKT6yA)
+- [Slides](https://docs.google.com/presentation/d/1QkLEAANJ6PGDWSZW9QU4E5U3zLYGJrfd3QT7c3M9AsI)
 - Nerd Dice Worksheets
-    - [Structured](https://docs.google.com/document/d/1lto9_vbNkReZaGUywDaO9YWiVxrXTeqs5PLshjJuYoo)
-    - [Unstructured](https://docs.google.com/document/d/1e9xWAlFcYCFBPapMjFKRzXOiDaptUdPo_Iq3KRK2y2w)
+    - [Structured](https://docs.google.com/document/d/1HcBtp3SGgqwx3t00QINbF92PpRF2-BmFEUmbs_-xfHw)
+    - [Unstructured](https://docs.google.com/document/d/1DIf1W-VTDqsMScPS5zbwgawwqmy6O_PBDZZdOe3kTzU)
 - Text Analysis Worksheets
-    - [Structured](https://docs.google.com/document/d/16RyyfLeFgYusdKyLlAZVpPn_eaLOoWZdl4A4x_U852I)
-    - [Unstructured](https://docs.google.com/document/d/1-v7pL5HZumD5vZaz0Xomjl-1uwfqtEiB3n031yuksLY)
+    - [Structured](https://docs.google.com/document/d/1TqX5hfq5YpjB0j_PJpzXLDfxeEcxsSKrRHAuvQAfy60)
+    - [Unstructured](https://docs.google.com/document/d/1eZTjIFRzZBfvqgMNLqbOM6dCjq6E7vguUUZ5l31rZHI)
 - Emoji Pics Worksheets
-    - [Structured](https://docs.google.com/document/d/1nuOUKBjcMtZB4cs4miADyMmzVowSWINpeCWuurLt1sw)
-    - [Unstructured](https://docs.google.com/document/d/1rEZU8kaY4DA9z7RObT1ZmhdPCIjQHulyetspzzGl2P0)
+    - [Structured](https://docs.google.com/document/d/1dHhKcNMWWKQNFN2sk2R3Zzp5c_hVzFJFsDazL-LsC2I)
+    - [Unstructured](https://docs.google.com/document/d/1SRAwEpi2wwfWqqcnm9Vcz6eiRBIPu_-jWDihiG1KFLw)
 - Markov Models Worksheets
-    - [Structured](https://docs.google.com/document/d/1a3iA1kl9uoAaWwEdl-4M0CnYFe0J2CbwdzDhdQSIodE)
-    - [Unstructured](https://docs.google.com/document/d/1EyZ5RL_CCch0ViK4T89vF9MAiG2jSskfZcLFEN0VlnM)
-- [Ouroboros Worksheet](https://docs.google.com/document/d/1fyMwDkbSTWVX5JdmpolnhawgO-G4HSe-4inz5asu6Fk)
+    - [Structured](https://docs.google.com/document/d/1-KuHx8ZetAYqwDjYLKIrkMWK6AqST-2mc6bhhSbA5gk)
+    - [Unstructured](https://docs.google.com/document/d/1tuENuJfeDrY9pYZgCaBJjEux6TueakXucHJYtTDNMdA)
+- [Ouroboros Worksheet](https://docs.google.com/document/d/1owDsK09TlgyEq9tDfbCr4RG5G9hAuCPWBI7DSxbzaHk)
 
 #### Unit 04: Learning Machines
 
@@ -162,8 +162,8 @@ Learning Types, Classifiers, Teaching Methods, Abstraction, Epistemology
 
 ##### Resources
 
-- [Slides](https://docs.google.com/presentation/d/1a2d9TV4lQo9174FEONIAHBjmw8MvClQrvRGND-xwcIs)
-- [NamedTuples and Immutability Worksheet](https://docs.google.com/document/d/1xan0wKmtAtdfNlcM0ZQWtNt6E37QdzplLj5k7C3sBNI)
+- [Slides](https://docs.google.com/presentation/d/1W2O-SGz8C_cBkx9rAFTnhgW5gLUj2rbM0W5zAdkJQ0Y)
+- [NamedTuples and Immutability Worksheet](https://docs.google.com/document/d/1atH1vMb0KfUEd8D4Z8TdczbgvrKcCwl6RIdCfBDsjXI)
 
 #### Unit 05: Bayesian Learning
 
@@ -180,10 +180,12 @@ Bayes Theorem, NamedTuples, Blackjack, Skull, 3Blue1Brown
 
 ##### Resources
 
-- [Slides](https://docs.google.com/presentation/d/1t7dBUWiRDFQTU1SSowFp9VCaSElgotzSNtxaf8vXd5g)
-- [Bayesian Probability](https://docs.google.com/document/d/1MqtmRg79Z4fb0xBvIxxB_wFwJX6cBlNoawjJvqBCnQY)
-- [Bayesian Blackjack](https://docs.google.com/document/d/1lurIZi_SWNf56cJHxNf0FcXbpbzKZZOucENvi6wU1JQ)
-- [Cancer Decider](https://docs.google.com/document/d/1M_g0or7qh1u5OhJAJoa3Y4hqlwjvn2UgN8ODPxc-nB0)
+- [Slides](https://docs.google.com/presentation/d/17Rw7pLlYEokxQpdMFVdS1O1luk5pNFcE6cIZAV6AC50)
+- [Bayesian Probability Worksheet](https://docs.google.com/document/d/1ZjtLbkHw2iyj4zV-uxG4_UzeI-9fY1GEZaRsvR7ZkJA)
+- [Basic Blackjack Worksheet](https://docs.google.com/document/d/1CVTxKeyRxnLsy2HdDYRycEd96gPgndo0s0NvVsHb2qc)
+- [Blackjack Bot Worksheet](https://docs.google.com/document/d/1y_CsEN4gw9w7w9QhmkrUVC_ymxCdiD-vuR4D8JnGouA)
+- [Bayesian Blackjack Worksheet](https://docs.google.com/document/d/1SxWQx6RRM7WoodJ6ybfVF5P5mEn_360wTTuU5PyhbwU)
+- [Cancer Decider Worksheet](https://docs.google.com/document/d/1FvjMSrtZlRXDbAwKUmpAsCDZk7IAEHo6VNRSTxlltd4)
 
 #### Unit 06: AI in Society
 
@@ -200,7 +202,7 @@ P-Doom, Utopia, Emotions, AI Safety, Ethics
 
 ##### Resources
 
-- [Slides](https://docs.google.com/presentation/d/1E_UgPGi9mZl_D5cM4-F3NAXO7DoMx6qZSLqolErBzvo)
+- [Slides](https://docs.google.com/presentation/d/1OS5ma6PO3kxIVbaTDLsEXISyoouRG3a8N9tgNgSoiko)
 - [Paperclip Maximizer](https://www.decisionproblem.com/paperclips/index2.html)
 
 #### Unit 07: App Development 1
@@ -220,7 +222,14 @@ ChatBots, Git, Python, Independent Study
 
 ##### Resources
 
-- [Slides](https://docs.google.com/presentation/d/1rYIYqfHcU8_0MPvLFQyTLnvYk3Q7inH6rkYVcvT9OK0)
+- [Slides](https://docs.google.com/presentation/d/1qza0amCLyVXAHeqtTRjDqRgPKGoeZnvO-jOu-OmWuRA)
+- [Mystery Debugging Worksheet](https://docs.google.com/document/d/1xcWzLMv26nNTWZoy_7MdmldPgNSn-afaJyB3ZRF6a5k)
+- [Pong Worksheet](https://docs.google.com/document/d/1cG6lMPcdGW0ZdDfpOYdI7bLyo-bEFcs3GFk7xIWK9U8)
+- [Elevator Pitch Worksheet](https://docs.google.com/document/d/1ZaBSkmFkis2de_ny1hjYHbJhy6yg0DGMnEqj1l_euxA)
+- [Planning Doc Worksheet](https://docs.google.com/document/d/1AfeLlQXjnU2vKEVJbpA3mgU4dg5rqSvjmwUFUQJjIHM)
+- [Git Local Worksheet](https://docs.google.com/document/d/1fd3H9NmNrQh0ohd2Ff7tsxlQUmZS3lA8k8NPH6FSgQo)
+- [Git Remote Worksheet](https://docs.google.com/document/d/1t-XreoGkGAoU2Yom5kbKoRFUwY1yjxej5ohp3E6G8Q8)
+- [Cancer Decider](https://docs.google.com/document/d/1FvjMSrtZlRXDbAwKUmpAsCDZk7IAEHo6VNRSTxlltd4)
 
 #### Unit 08: Evolutionary Algorithms
 
