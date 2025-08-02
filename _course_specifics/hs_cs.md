@@ -53,12 +53,12 @@ Data, Binary, Hexadecimal, RGB, Encoding, Decoding, Number Systems, ASCII
 
 ##### Resources
 
-- [Slides](https://docs.google.com/presentation/d/1XtRF9TK3wj5wJY9-hjmsJWa-u8koJM_jKQXvzzv2TE8)
-- [Number Systems Worksheet](https://docs.google.com/document/d/1esNFXNXknUZ8u6ecfAX23CCBElGLJUJnZ275CTJN3lY)
-- [Hexadecimal Worksheet](https://docs.google.com/document/d/1W78ZKpljpYbSOuBPiIZ7HeDdjppLFt70yxR65a2MYX4)
-- [ASCII Scavenger Hunt](https://docs.google.com/spreadsheets/d/1-6gDOtzs0r-PXiVjRgclm6DzgXySXCEntQzXS9CB3tU)
-- [Hex Fiend Worksheet](https://docs.google.com/document/d/1QBQFZy7oRVLWU8Fvbh-ymdTY-KpSJ-f1M6pmo1ItcpA)
-- [Emoji Worksheet](https://docs.google.com/document/d/10esTMQ7dVPqxuLoiB1pYsntUwUWHYAAu8rS1RyC4kWs)
+- [Slides](https://docs.google.com/presentation/d/1xtApJyjZF8joReU1AgiOyBgTkJKBOUjK-dURfVn_hfQ)
+- [Number Systems Worksheet](https://docs.google.com/document/d/1DTNY0ksbI0Quo3H6z9qIpiYgfVbzm_xVUw64MLy1z-k)
+- [Hexadecimal Worksheet](https://docs.google.com/document/d/1tJpkMQ1rLbRfKy2Ent6zz7kkN-DsHcLGRth0LzemI5o)
+- [ASCII Scavenger Hunt](https://docs.google.com/spreadsheets/d/1RQApjOZ6VUouywrprzMgdUlHvhKBGveX4A5EsMaNa_A)
+- [Hex Fiend Worksheet](https://docs.google.com/document/d/13eJslDI9i5UYEd8glOq47R2497vZk1R8reYMuMlNjxI)
+- [Emoji Worksheet](https://docs.google.com/document/d/1NG4p17nloX6iNKq1-LA3gYhqKkOa6fZJjj4jn99J4Dk)
 
 #### Unit 1: Introduction to Python
 
@@ -81,15 +81,15 @@ Programming, PRIMM, Grok, Python, Conditional, Variables, Loops, Turtles, EmojiP
 
 ##### Resources
 
-- [Slides](https://docs.google.com/presentation/d/1cRtUOt-Q6cIK2JgTmWrYXtshWAFtZHKgS5iJ1E72Dlw)
-- [MadLibs to teach string operations](https://docs.google.com/document/d/1-AwvVtv59yDz-mvorbLMAJdnjadjgOmC5QAquUhNyp0)
-- [Connections-esque game to teach conditionals](https://docs.google.com/document/d/1LOTwfDylpD5fnUC1dwykx5nrTQwpntYi2X0pwWtR2Jw)
-- [Turtles to teach loops](https://docs.google.com/document/d/1M3QkPWw4FBevTRVVvPYrpMLnrxy3whFOzJG3GN-qLyo)
-- [Secret messages to teach the _accumulator pattern_](https://docs.google.com/document/d/1TiQm3HpzzWlnJl5ILCaigmE8zZOyYrJGeLjrZ_rafXo)
-- [Binary calculator to teach iteration](https://docs.google.com/document/d/183j9K37eSpVBpgw3tDEmQOA_XPoAF9FEssBAVmYFE4w)
+- [Slides](https://docs.google.com/presentation/d/1AQQUnWN89XewjB5BxkjZo0kcswoafx4Duaxb6VYnR-Y)
+- [MadLibs to teach string operations](https://docs.google.com/document/d/1PKTX96nevZkhuZXIfXBkfYeKSSEbxsmHfldVZJNMGY4)
+- [Connections-esque game to teach conditionals](https://docs.google.com/document/d/1lgCOv0inhZBYfx1952ibRwoQXSh_euaeJeuWUNQ95fQ)
+- [Turtles to teach loops](https://docs.google.com/document/d/13WFLn6IJltz6DW2W2dIHbWaCuKltTYjuxj3KeJhyZNQ)
+- [Secret messages to teach the _accumulator pattern_](https://docs.google.com/document/d/1kCU81XrEW-kdEjA12UGQ7GsgEIX7UPOKX9wWCAj-7zI)
+- [Binary calculator to teach iteration](https://docs.google.com/document/d/1voH0kpTzbl_flMfR4tsE4Kpz7WkNeEoItoQuqvzDwDU)
 - Unit review sheets:
-    - [Primary worksheet](https://docs.google.com/document/d/1JRC6dt6In4ur31Bg9uEWnNB6SLyhWFfIBuIyiX1NwrI)
-    - [Supplemental worksheet - in case of a poorly timed break](https://docs.google.com/document/d/1nERmn08ClQl2Vh3gwiT03mRcjoSvnEfHRoGPMBAWIvM)
+    - [Primary worksheet](https://docs.google.com/document/d/1o6eBL84HLTr1vCj9oku2eNq_9ztDQDRnnwpZuXnTZpA)
+    - [Supplemental worksheet - in case of a poorly timed break](https://docs.google.com/document/d/1OKl6XFj32gIqM7QUVV-dqqRFpypmETZVU1c0xg4QYYw)
 
 #### Unit 2: Fractals and Recursion
 
@@ -109,12 +109,12 @@ Programming, PRIMM, Python, Functions, Call Stacks, Fractals, Recursion
 
 ##### Resources
 
-- [Slides](https://docs.google.com/presentation/d/1FxPj_-0XfHrqkxCdF04YyP_OCcdqfmHGcRxVqN-3DYk)
-- [Turtles to teach functions](https://docs.google.com/document/d/1pD_fh3PX6DwU3aemTk7Rn886AjMAgYAPAlwt7aCmDlk)
-- [Functions to teach return types](https://docs.google.com/document/d/1YcTDvjttDOR_3be6ru09AZmekXhPPpsQGAwZuhSxA3w)
-- [Robozzle to introduce recursion](https://docs.google.com/document/d/1QiQHOOVJecKwnOi_IGNrIDqSbMQhL2UCoL90OGBYXFg)
-- [Turtles to teach recursion](https://docs.google.com/document/d/1KZZBXd41aoYjR4rYAPWKPmsHDFJMrjmcIhX95dQPDW0)
-- [Unit review sheet](https://docs.google.com/document/d/1JvvLg1t9qirK5kptCM3CtkF478smpt2b4quSn3QDeHA)
+- [Slides](https://docs.google.com/presentation/d/1HCzD-3aaoLSdaW71j2XLM55avDzd3xXfgSb-42nqzV8)
+- [Turtles to teach functions](https://docs.google.com/document/d/1F2LopOKUzo7Me46r443AR9AAHAGyhx6UGzbuqCuz9X0)
+- [Robozzle to introduce recursion](https://docs.google.com/document/d/1TeF9WRD4uSSb1x0b77DhhJxep5XlrphEtiZ_X6Ey5LA)
+- [Functions to teach return types](https://docs.google.com/document/d/1_nVZIjzZjRCCmJnm9EirO92FmBdu74Jwtds3Mwlvw6w)
+- [Turtles to teach recursion](https://docs.google.com/document/d/1SZ2lSbpvMwsL8xCm2NlcC7pxM9mHmknapGU8jOoeBko)
+- [Unit review sheet](https://docs.google.com/document/d/136UpNeDmZyo_12y5jqYC_qiDwypfF7fYwDKy-9w7JUo)
 
 #### Unit 3: Programming in Practice
 
@@ -132,11 +132,13 @@ Programming, PRIMM, Python, Lists, Functions, EmojiPics, Prisoners Dilemma, `vsc
 
 ##### Resources
 
-- [Slides](https://docs.google.com/presentation/d/1iCuhE2ET333hNplvLSRDIOwzRc_UqGPRMgs-zyD1ZRU)
-- [EmojiPics to teach advanced loops](https://docs.google.com/document/d/1QTFUdrvmvJDzejtqXY6LxjbkbCDDzDxtyuHH0FnWdT4)
-- [Prisoner's Dilemma to teach lists](https://docs.google.com/document/d/1F0GhWpyZ6LulCuW22pCCAIo370CjpGgNC-VmFXVEn-s)
-- [Turbozzle to teach vscode](https://docs.google.com/document/d/1fekLawCFuocIC7UNs41wR1hAvdX_QMzMMIOz599dnUU)
-- [Unit review sheet](https://docs.google.com/document/d/14GKx1AaB0O0fBH9AcmVAaJzPGk21_oIWB6BlDdjIhCY)
+- [Slides](https://docs.google.com/presentation/d/1XlHD8ACYAaNY3zZPtUgydCavL550-OdlcOEG1OvNCuc)
+- [EmojiPics to teach advanced loops](https://docs.google.com/document/d/1BdM1WXwt0Zht_RwshvBTymoVOp4R-Nc4CFgPwJo5iEE)
+- [Turbozzle to teach vscode](https://docs.google.com/document/d/1HZcC1fA7iTOl4Kmoke7aKtkx7M0s2XSbByKXmCnwUCo)
+- [Turbozzle to teach debugging](https://docs.google.com/document/d/1BnV0GSvBOEZ2PJy4ujrIu6QMUwxihd54SyGKFMUhNi8)
+- [Groceries to teach lists](https://docs.google.com/document/d/1tL68q2oaaD0fEsTa9MwGxtojVM07-NpRFrItekMkhrA)
+- [Prisoner's Dilemma to teach lists](https://docs.google.com/document/d/1n2QzH0GqMnWIzZjZWrJmvGEoMoQ5zYNj5kigQviBqPQ)
+- [Unit review sheet](https://docs.google.com/document/d/1UtyDgtCTtZxbZIY6ug8IuFvKHtzjOZF166owtk-4gTQ)
 
 #### Unit 4: Image Manipulation via Python
 
@@ -156,10 +158,10 @@ Programming, Python, Pixels, RGB, Photo Editing, PhotoShop
 
 ##### Resources
 
-- [Slides](https://docs.google.com/presentation/d/1_2fKMQEYIzvMjF5db4E5Xnk0eXHXdXLZCOafnArKy58)
-- [Hex Fiend to introduce bitmaps](https://docs.google.com/document/d/1l6cYOHgc4svrhHIA_bq6oGIQXa7OGLsPTTuATS6NgbE)
-- [PythoShop Repo](https://github.com/dwheadon/PythoShop/tree/main)
-    - Full set of worksheets/resources in README of repo
+- [Slides](https://docs.google.com/presentation/d/1Xv8M9BBIJSzkkeBRApU6jNcrwXNBSvQWgDNRtn-uKw8)
+- [Hex Fiend to introduce bitmaps](https://docs.google.com/document/d/1ZvwvCIIadERbB6w8pEogAD431598T8ARJezJt5OjL3Q)
+- [PythoShop Repo](https://github.com/eric-rizzi/PythoShop)
+    - Full set of worksheets/resources in `README` of repo
 
 ### Links to Outside Resources
 
