@@ -56,12 +56,15 @@ Python, Grok, Pygame, Objects, Functions, PRIMM, Fishy, Pong
 
 ##### Resources
 
-- [VSCode Setup Worksheet](https://docs.google.com/document/d/1rIdk_vk-tgh7_RPmZKn8qJc9L8iSBRDWfoNWK-HW5TA)
-- [Pong Worksheet](https://docs.google.com/document/d/1eW4la2fCusx_mdwDf4gEzEPu_daq-ZIVavT85ASw3pc)
-- [Object Basics Worksheet](https://docs.google.com/document/d/1rS0B1gvbGJEnMxNH8ZPs3ojfpMQOp3Cf3u1ARx2HDU0)
-- [Fishy Worksheet](https://docs.google.com/document/d/1gsYWeewpQPB9gjoGOE963jIxD110brmhtM3Qjbk9Ao8)
-- [Pong Repo](https://github.com/eric-rizzi/ucls-partial-pong)
-- [Fishy Repo](https://github.com/eric-rizzi/ucls-fishy)
+- [VSCode Setup Worksheet](https://docs.google.com/document/d/1xXfJWjY4bbE7S91n8sRmIKCTJsloQCjr9FDU0d89nKM)
+- Pong in Python
+    - [Pong Worksheet](https://docs.google.com/document/d/1ZyE9ITe_CudfB-laCmynwYoFQg_34IwrydntI7mqbQE)
+    - [Pong Repo](https://github.com/eric-rizzi/ucls-partial-pong)
+- [Object Basics Worksheet](https://docs.google.com/document/d/1P5Vr3GIpV_nHO_Ygj0K6f0hhP5aZeKb5FKnnqNnPBTA)
+- Fishy in Python
+    - [Fishy Worksheet](https://docs.google.com/document/d/1UHffrtwf_iBFuwcttdDIR0JHFhYR2wBvD9ceYRIt5f0)
+    - [Fishy Repo](https://github.com/eric-rizzi/ucls-fishy)
+- [Murder Mystery Debugging](https://docs.google.com/document/d/1jc9x7PvTu_ZVVxDXeQ1MhwXvAjFvkNsX2sdkYZNaxWo)
 
 #### Unit 1: Command-Line
 
@@ -80,8 +83,8 @@ Terminal, Shell, Linux, GameShell
 
 ##### Resources
 
-- [GameShell](https://github.com/phyver/GameShell)
-- [Over the Wire](https://overthewire.org/wargames/bandit/)
+- [GameShell Worksheet](https://docs.google.com/document/d/1qkfJL83CiloM4aPVqwhMUliqx1U9y49hqlwtYOtXcgg)
+- [Over the Wire Worksheet](https://docs.google.com/document/d/1sUR_HOTZYv3HVJhH2MycrYMG2DzgV-mwdk8gyAxR1VQ)
 
 #### Unit 2: Git
 
@@ -103,6 +106,11 @@ Commits, GitLab, Conventional Comments, CI/CD
 ##### Resources
 
 - [Today I Learned](https://github.com/jbranchaud/til)
+- [Git Local Worksheet](https://docs.google.com/document/d/1fd3H9NmNrQh0ohd2Ff7tsxlQUmZS3lA8k8NPH6FSgQo)
+- [Git Remote Worksheet](https://docs.google.com/document/d/1t-XreoGkGAoU2Yom5kbKoRFUwY1yjxej5ohp3E6G8Q8)
+
+> Note: These worksheets weren't given to independent study students, but they
+  form a good foundation to build off of.
 
 #### Unit 3: Advanced Python
 
@@ -121,9 +129,10 @@ Python, Generic Types, Comprehensions, Objects
 
 ##### Resources
 
-- [Comprehension Worksheet](https://docs.google.com/document/d/1zP6oDFBjCgp-V4EkReR_L5QZTUImNS-jG7E31c37T7M)
-- [Generic Types Worksheet](https://docs.google.com/document/d/1ekuqpFijy7uXWKH51KyPX41jKc_1COwepbzOCXzOaEc)
+- [Comprehension Worksheet](https://docs.google.com/document/d/1OvC9P6YLF-hMEyeDf2iVbH_sLPu1gkOXPN6TSu_6T_g)
+- [Generic Types Worksheet](https://docs.google.com/document/d/1-hsOz5qiORecVCLocJ54yDCS-7DkLQe924a_owmGrWc)
 
+> Note: These worksheets make reference to https://gitlab.com/eric.rizzi/problem-set-skeleton
 
 #### Unit 4: ChatBot Aid
 
@@ -147,9 +156,9 @@ ChatBots, GitHub, HTML, JavaScript, APIs, Client-side Apps
 
 ##### Resources
 
-- [Hello GitHub Worksheet](https://docs.google.com/document/d/1wLQTRCPJ1zliQjcpnfUkqjNVW4aJ8giYrCCRPT3QLUA)
-- [ChatBot Roulette Worksheet](https://docs.google.com/document/d/1PDXcbG9Ae8Hniw7MvHyTZVbjTzZmpKXqeun8eJP_iTs)
-- [Modern Web Apps Worksheet](https://docs.google.com/document/d/1yYhvBxneYn3HMrBUWB0riLzorkQRII0tinSizXNh6cY)
+- [Hello GitHub Worksheet](https://docs.google.com/document/d/1V2geJfA0Ejb-QWIHPbAK79x6vZR3L5fVFe-SIsiwVTA)
+- [ChatBot Roulette Worksheet](=https://docs.google.com/document/d/1OdkjUq4jd241HiCB9HH6BzGkChhUuTQDybQa6UdO_4E)
+- [Modern Web Apps Worksheet](https://docs.google.com/document/d/13EOjDsc3Qp_4aDpkLkLYVzp4CKlg1NfO8hyzowSxVXU)
 
 #### Unit 5: AWS Dev Part 1
 
@@ -174,9 +183,9 @@ Lambda, Regions, DynamoDB, S3, Permissions, boto3
 
 ##### Resources
 
-- [AWS Intro Worksheet](https://docs.google.com/document/d/1k9zt-XQJZDGlWAC87l09PZ_GT9oc8sGcIeKrBFq6sAg)
-- [DynamoDB Intro Worksheet](https://docs.google.com/document/d/1N5vOdbItnN81a0iwexD3kV5n7kvP6bbS7h5THOxMUqM)
-- [S3 Intro Worksheet](https://docs.google.com/document/d/1WwM4kJjMKh41zh4sN1tGyI0cAWhffMAP7I7Ur8_s-hM)
+- [AWS Intro Worksheet](https://docs.google.com/document/d/1JsldNMBVa8IPCjZxWNvwbdSP3auRneVJDhJLwW-pd7k)
+- [DynamoDB Intro Worksheet](https://docs.google.com/document/d/1QraSS2EYvAL35uLtASgSMwJe61q6xFzq4A6u4bLvxE0)
+- [S3 Intro Worksheet](https://docs.google.com/document/d/1yO9TNwMCT2sHQRyK74tHXUQjH0_P-MNpm_Y4UVqUpbg)
 
 #### Unit 6: Docker
 
@@ -198,8 +207,8 @@ Containers, DockerHub, Lambda, Environment, Program Hooks, Serverless, Harry Pot
 
 ##### Resources
 
-- [Docker Intro Worksheet](https://docs.google.com/document/d/1BXl2eWHTXz2hGJeljlIaKgKq84DUOPS7wvJAcuiL_p0)
-- [Serverless Docker Worksheet](https://docs.google.com/document/d/1uz90cVLRvoGtuCpYqWeNYBw4waXxQW4OEyGHA4HOmgU)
+- [Docker Intro Worksheet](https://docs.google.com/document/d/1PO9VrUhzUVwOy9TTqyYsKoqxuZ4fd8XabRSE4p-8XFc)
+- [Serverless Docker Worksheet](https://docs.google.com/document/d/1waPxuPZMGIyw0nrxEvMeCYdMjf5RxlCX4Pp62t100Ds)
 
 #### Unit 7: AWS Dev Part 2
 
@@ -222,12 +231,13 @@ CI/CD, Dashboards, Integration Testing, Infrastructure vs. Code, CDK
 
 ##### Resources
 
-- [Infra as Code Worksheet](https://docs.google.com/document/d/1ZLFzG_-HqCs_UDjQs9KIOmp8zFPp5bSBtSDVgH_3e34)
-- [API Gateway Intro Worksheet](https://docs.google.com/document/d/1exAsqMfjrSYUT08oBmxrDCngnI5ldqXDq81y6yvncgQ)
-- [Src Deployment 1 Worksheet](https://docs.google.com/document/d/15mgQNYt54nPrwl8miEN0n_T1ZJqVGHRXdm3BB0animg)
-- [Src Deployment 2 Worksheet](https://docs.google.com/document/d/1-gtga6QumvTnGSImP2Noo9279mJ0FdsR8_D1jwYiU2s) - PENDING
-- [Dashboard Worksheet](https://docs.google.com/document/d/1XYs5yg7N-iALpGJISFtZOZ4GmgHvgZPV1EADaSWCjDg) - PENDING
-- [Integ Test Worksheet](https://docs.google.com/document/d/1R_LksGNqv2zxR_O1FiwlW-26vI7MWVc99F_Je2SV7ts) - PENDING
+- [Infra as Code Worksheet](https://docs.google.com/document/d/1u_2Nc5sB9kEE5HP762yDPefYx1bcuNrXoqp6_f8PEYI)
+- [API Gateway Intro Worksheet](https://docs.google.com/document/d/1AOcnAhgKW9QPTv94DrRf6wRo4U2YqH2GxMAeLgBadIM)
+- [Src Deployment 1 Worksheet](https://docs.google.com/document/d/1_qeXfot58IK2lq-5m-ZaHcg0cy15A8t_ja8Lz_wvrVM)
+- [Src Deployment 2 Worksheet](https://docs.google.com/document/d/1fT_RisXWCCX8_O70RzZMvfAFu3MFJtYdITSzv269IMU) - PENDING
+- [Dashboard Worksheet](https://docs.google.com/document/d/1sXB2rJ9LyrmXrs24tgmw0DXvsg8JC8nSfoMBEld06YY) - PENDING
+- [Integ Test Worksheet](https://docs.google.com/document/d/1dK23aQMsMsv42KqFagv0CP0SFERrVOKCum3vX4ovM9A) - PENDING
+- [AWS Wrap Up Worksheet](https://docs.google.com/document/d/1-e6uk2ZSzCgbVB5S5QYt22nFBrAcL6xjYxY_rjbfjBQ) - PENDING
 - [AWS Infra Repository](https://gitlab.com/eric.rizzi/aws-infra-txu.git)
 - [AWS Src Repository](https://gitlab.com/eric.rizzi/aws-src-txu.git)
 
