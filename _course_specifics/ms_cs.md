@@ -25,7 +25,7 @@ possible), and sharing of students work in the class.
 - [Main Repository](https://github.com/eric-rizzi/ucls-ms-intro-to-cs)
 - [Administrative Documents](https://github.com/eric-rizzi/ucls-ms-intro-to-cs/tree/mainline/Administration)
 - [Course Curriculum](https://github.com/eric-rizzi/ucls-ms-intro-to-cs/tree/mainline/CourseMaterials)
-- [Slides](https://docs.google.com/presentation/d/1_haSfJvCY0OA6x6Ym1PqG1iJuH38eZB0TawBFXFAJXg)
+- [Slides](https://docs.google.com/presentation/d/1LZ9qW63k0Hhun7w6vYURNxZx-x9BmftrO0Ew-m6Dhyk)
 
 ### Course Units
 
